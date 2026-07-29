@@ -122,10 +122,10 @@ groups = defaultdict(list)
 
 for p in products:
 
-    summary = p["summary"].strip()
+    summary = (p.get("summary") or "").strip()
 
-    if summary == "":
-        summary = "未設定"
+if not summary:
+    summary = "未設定"
 
     groups[summary].append({
         "title": p["title"],
