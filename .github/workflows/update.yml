@@ -23,8 +23,10 @@ jobs:
         run: |
           python fetch.py
 
-      - name: Upload products
+      - name: Upload JSON Files
         uses: actions/upload-artifact@v4
         with:
-          name: products
-          path: products.json
+          name: asiagoal-json
+          path: |
+            products.json
+            deadline.json
