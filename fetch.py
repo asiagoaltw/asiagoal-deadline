@@ -124,10 +124,18 @@ for p in products:
 
     summary = (p.get("summary") or "").strip()
 
+# 沒有結單日期就跳過
 if not summary:
-    summary = "未設定"
+    continue
 
-    groups[summary].append({
+# 只保留真正的結單日期
+if "結單" not in summary:
+    continue
+
+# 去掉「結單」兩個字
+summary = summary.replace("結單", "").strip()
+
+groups[summary].append({
         "title": p["title"],
         "url": p["url"],
         "price": p["price"],
@@ -139,13 +147,21 @@ result = []
 for date in sorted(groups.keys(), key=parse_date):
 
     result.append({
-        "date": date,
-        "count": len(groups[date]),
-        "items": sorted(
-            groups[date],
-            key=lambda x: x["title"]
-        )
-    })
+    "date": date,
+    "count": len(groups[date]),
+    "items": sorted(
+        groups[date],
+        key=lambda x: x["title"]
+    )
+})
+
+today = datetime.now().date()
+
+for g in result:
+
+    target = datetime.strptime(g["date"], "%Y/%m/%d").date()
+
+    g["days_left"] = (target - today).days
 
 deadline = {
     "updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
