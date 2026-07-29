@@ -9,8 +9,8 @@ BASE_URL = "https://www.asiagoal.com.tw/store/products"
 
 PARAMS = {
     "type": "category",
-    "id": "52139",          # 最新預購
-    "limit": 100,           # 先試100，若API限制會自動改16
+    "id": "52139",
+    "limit": 100,
     "orderType": "default",
     "hotSalePeriod": "default",
     "activeId": "52139"
@@ -37,13 +37,13 @@ def request_page(page, limit):
     data = r.json()
 
     if data.get("result") != "success":
-        raise Exception("API 回傳失敗")
+        raise RuntimeError("API 回傳失敗")
 
     return data["response"][0]
 
 
-def parse_date(summary):
-    m = re.search(r"(\d{4})/(\d{1,2})/(\d{1,2})", summary or "")
+def parse_date(text):
+    m = re.search(r"(\d{4})/(\d{1,2})/(\d{1,2})", text or "")
     if not m:
         return datetime.max
 
@@ -56,32 +56,28 @@ def parse_date(summary):
 
 print("開始抓取最新預購商品...")
 
-# ---------- 自動偵測 limit ----------
 try:
-    test = request_page(1, 100)
-    limit = 100
+    request_page(1, 100)
+    LIMIT = 100
 except Exception:
-    limit = 16
+    LIMIT = 16
 
-print(f"使用 limit = {limit}")
+print(f"使用 limit = {LIMIT}")
 
 products = []
 
 page = 1
 
 while True:
-
     print(f"第 {page} 頁...")
 
-    data = request_page(page, limit)
-
+    data = request_page(page, LIMIT)
     items = data.get("products", [])
 
     if not items:
         break
 
     for item in items:
-
         products.append({
             "title": item.get("title", ""),
             "summary": item.get("summary", ""),
@@ -97,45 +93,23 @@ while True:
 
 print(f"共抓到 {len(products)} 件商品")
 
-# ------------------------------
-# products.json
-# ------------------------------
-
-with open(
-    "products.json",
-    "w",
-    encoding="utf-8"
-) as f:
-
-    json.dump(
-        products,
-        f,
-        ensure_ascii=False,
-        indent=2
-    )
-
-# ------------------------------
-# deadline.json
-# ------------------------------
+with open("products.json", "w", encoding="utf-8") as f:
+    json.dump(products, f, ensure_ascii=False, indent=2)
 
 groups = defaultdict(list)
 
 for p in products:
-
     summary = (p.get("summary") or "").strip()
 
-# 沒有結單日期就跳過
-if not summary:
-    continue
+    if not summary:
+        continue
 
-# 只保留真正的結單日期
-if "結單" not in summary:
-    continue
+    if "結單" not in summary:
+        continue
 
-# 去掉「結單」兩個字
-summary = summary.replace("結單", "").strip()
+    summary = summary.replace("結單", "").strip()
 
-groups[summary].append({
+    groups[summary].append({
         "title": p["title"],
         "url": p["url"],
         "price": p["price"],
@@ -145,22 +119,16 @@ groups[summary].append({
 result = []
 
 for date in sorted(groups.keys(), key=parse_date):
-
     result.append({
-    "date": date,
-    "count": len(groups[date]),
-    "items": sorted(
-        groups[date],
-        key=lambda x: x["title"]
-    )
-})
+        "date": date,
+        "count": len(groups[date]),
+        "items": sorted(groups[date], key=lambda x: x["title"])
+    })
 
 today = datetime.now().date()
 
 for g in result:
-
     target = datetime.strptime(g["date"], "%Y/%m/%d").date()
-
     g["days_left"] = (target - today).days
 
 deadline = {
@@ -169,18 +137,8 @@ deadline = {
     "groups": result
 }
 
-with open(
-    "deadline.json",
-    "w",
-    encoding="utf-8"
-) as f:
-
-    json.dump(
-        deadline,
-        f,
-        ensure_ascii=False,
-        indent=2
-    )
+with open("deadline.json", "w", encoding="utf-8") as f:
+    json.dump(deadline, f, ensure_ascii=False, indent=2)
 
 print("完成！")
 print("products.json 已建立")
