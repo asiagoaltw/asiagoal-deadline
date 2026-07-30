@@ -3,6 +3,13 @@ name: Update Deadline
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: "*/30 * * * *"
+
+concurrency:
+  group: update-deadline
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -35,6 +42,7 @@ jobs:
 
           git add products.json deadline.json
 
-          git diff --cached --quiet || git commit -m "Auto update deadline"
-
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto update deadline"
+            git push
+          fi
