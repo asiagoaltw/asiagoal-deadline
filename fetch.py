@@ -2,6 +2,7 @@ import json
 import re
 from collections import defaultdict
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -125,14 +126,16 @@ for date in sorted(groups.keys(), key=parse_date):
         "items": sorted(groups[date], key=lambda x: x["title"])
     })
 
-today = datetime.now().date()
+# 使用台灣時間
+taipei_now = datetime.now(ZoneInfo("Asia/Taipei"))
+today = taipei_now.date()
 
 for g in result:
     target = datetime.strptime(g["date"], "%Y/%m/%d").date()
     g["days_left"] = (target - today).days
 
 deadline = {
-    "updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+    "updated": taipei_now.strftime("%Y-%m-%d %H:%M:%S"),
     "total": len(products),
     "groups": result
 }
