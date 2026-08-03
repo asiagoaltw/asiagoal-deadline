@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03 07:57:02",
-  "total": 326,
+  "updated": "2026-08-03 10:57:48",
+  "total": 328,
   "groups": [
     {
       "date": "2026/8/4",
@@ -377,6 +377,19 @@
         }
       ],
       "days_left": 42
+    },
+    {
+      "date": "2026/9/17",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年3月 2/1 Megami Device 女神裝置 PUNI☆MOFU 貓貓 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV374",
+          "price": 3840,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a6ffe318d142.jpg.webp"
+        }
+      ],
+      "days_left": 45
     },
     {
       "date": "2026/9/18",
