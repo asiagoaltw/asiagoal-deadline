@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03 10:57:48",
-  "total": 328,
+  "updated": "2026-08-03 14:28:17",
+  "total": 331,
   "groups": [
     {
       "date": "2026/8/4",
@@ -279,7 +279,7 @@
     },
     {
       "date": "2026/8/20",
-      "count": 6,
+      "count": 8,
       "items": [
         {
           "title": "26年12月 1/10 創彩少女庭園 造型假髮 動物耳朵 凌亂髮髻 狐狸 組裝模型",
@@ -294,6 +294,12 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a5f39a330b19.jpg.webp"
         },
         {
+          "title": "26年12月 MSG武裝零件 MH79 重武器組79 騎王劍 Chaos Ver. 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/MH79",
+          "price": 300,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a700c8e784ef.jpg.webp"
+        },
+        {
           "title": "27年1月 CAPCOM CFB系列 手指人偶 快打旋風 6 Vol.2 (一中盒8入)",
           "url": "https://www.asiagoal.com.tw/item/CapcomFigureBuilderFingerPuppetStreetFighter6Vol2",
           "price": 1200,
@@ -304,6 +310,12 @@
           "url": "https://www.asiagoal.com.tw/item/CapcomFigureBuilderMonsterHunterStandardModelPlusPalicoCollectionVol1",
           "price": 1230,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a3ca5284c6af.jpg.webp"
+        },
+        {
+          "title": "27年1月 Frame Arms Girl 機甲少女 突伽I Bunny Style 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/FG197",
+          "price": 1095,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a700c164923d.jpg.webp"
         },
         {
           "title": "27年2月 1/10 創彩少女庭園 穿衣系列 小石川艾瑪【聖愛莉絲女學園高等部・冬季制服】 組裝模型",
@@ -377,6 +389,25 @@
         }
       ],
       "days_left": 42
+    },
+    {
+      "date": "2026/9/15",
+      "count": 2,
+      "items": [
+        {
+          "title": "27年10月 SQUARE ENIX MASTERLINE 1/4 太空戰士7 重生 艾莉絲  完成品",
+          "url": "https://www.asiagoal.com.tw/item/4988601295895",
+          "price": 57200,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a7009247bab7.jpg.webp"
+        },
+        {
+          "title": "27年9月 SQUARE ENIX MASTERLINE 1/4 太空戰士7 重生 艾莉絲 豪華版 完成品",
+          "url": "https://www.asiagoal.com.tw/item/4988601295888",
+          "price": 62150,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a700937d58af.jpg.webp"
+        }
+      ],
+      "days_left": 43
     },
     {
       "date": "2026/9/17",
