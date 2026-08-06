@@ -1,75 +1,7 @@
 {
-  "updated": "2026-08-06 08:00:24",
-  "total": 321,
+  "updated": "2026-08-06 11:28:00",
+  "total": 329,
   "groups": [
-    {
-      "date": "2026/8/4",
-      "count": 8,
-      "items": [
-        {
-          "title": "26年Q4  NECA 是誰搞的鬼 7吋 漁夫 Fisherman 可動公仔",
-          "url": "https://www.asiagoal.com.tw/item/63448242251-9",
-          "price": 1150,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a6877cce7697.jpg.webp"
-        },
-        {
-          "title": "26年Q4 26年12月NECA DC蝙蝠俠1966 TV 8吋 穿衣公仔",
-          "url": "https://www.asiagoal.com.tw/item/63448261590-4",
-          "price": 1150,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a6876bf52dcd.jpg.webp"
-        },
-        {
-          "title": "26年Q4 NECA KISS 7吋 漁夫 Dressed to Kill專輯 4入組",
-          "url": "https://www.asiagoal.com.tw/item/63448210013-4",
-          "price": 2980,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a687817b3e13.jpg.webp"
-        },
-        {
-          "title": "26年Q4 NECA 忍者龜 1987 7吋 Tempestra 可動公仔",
-          "url": "https://www.asiagoal.com.tw/item/63448254539-3",
-          "price": 2000,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a6878d6aa440.jpg.webp"
-        },
-        {
-          "title": "27年Q1 NECA DC 綠燈俠 8吋 穿衣公仔",
-          "url": "https://www.asiagoal.com.tw/item/63448261592-8",
-          "price": 1150,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a68771b93926.jpg.webp"
-        },
-        {
-          "title": "27年Q1 NECA DC 超人 8吋 穿衣公仔",
-          "url": "https://www.asiagoal.com.tw/item/63448261589-8",
-          "price": 1150,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a687776efee4.jpg.webp"
-        },
-        {
-          "title": "27年Q1 NECA DC 超人1978 8吋 穿衣公仔",
-          "url": "https://www.asiagoal.com.tw/item/63448261566-9",
-          "price": 1150,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a6878974a5f2.jpg.webp"
-        },
-        {
-          "title": "27年Q3 NECA 傑森宇宙 7吋 十三號星期五  甜蜜復仇 傑森 可動公仔",
-          "url": "https://www.asiagoal.com.tw/item/63448241801-7",
-          "price": 1100,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a68785702300.jpg.webp"
-        }
-      ],
-      "days_left": -2
-    },
-    {
-      "date": "2026/8/5",
-      "count": 1,
-      "items": [
-        {
-          "title": "27年5月 DesignCOCO 青桐高校 音靈魂子 和武裝Ver. PVC",
-          "url": "https://www.asiagoal.com.tw/item/coco093",
-          "price": 5150,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a2cc684efc32.jpg.webp"
-        }
-      ],
-      "days_left": -1
-    },
     {
       "date": "2026/8/6",
       "count": 11,
@@ -279,7 +211,7 @@
     },
     {
       "date": "2026/8/20",
-      "count": 8,
+      "count": 14,
       "items": [
         {
           "title": "26年12月 1/10 創彩少女庭園 造型假髮 動物耳朵 凌亂髮髻 狐狸 組裝模型",
@@ -298,6 +230,42 @@
           "url": "https://www.asiagoal.com.tw/item/MH79",
           "price": 300,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a700c8e784ef.jpg.webp"
+        },
+        {
+          "title": "26年12月 女神裝置 M.S.G 09 手部零件套組 白色 組裝模型(KP909)",
+          "url": "https://www.asiagoal.com.tw/item/KP909",
+          "price": 280,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a73eee3f057a.jpg.webp"
+        },
+        {
+          "title": "26年12月 女神裝置 M.S.G 09 手部零件套組 黑色 組裝模型(KP910)",
+          "url": "https://www.asiagoal.com.tw/item/KP910",
+          "price": 280,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a73ef3661b1b.jpg.webp"
+        },
+        {
+          "title": "26年12月 女神裝置 M.S.G 10 臉部套組 PUNI☆MOFU 用 膚色C 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP906",
+          "price": 280,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a73edf8dcd6b.jpg.webp"
+        },
+        {
+          "title": "26年12月 女神裝置 M.S.G 10 臉部套組 PUNI☆MOFU 用 膚色D 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP907",
+          "price": 280,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a73ee5573f7c.jpg.webp"
+        },
+        {
+          "title": "26年12月 女神裝置 M.S.G 10 臉部套組 PUNI☆MOFU 用 膚色E 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP908",
+          "price": 280,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a73ee9fcb686.jpg.webp"
+        },
+        {
+          "title": "27年1月 ARCANADEA 阿爾卡納蒂亞 露蜜提雅 First Engage Ver. 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/AA001",
+          "price": 785,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a73f04f67986.jpg.webp"
         },
         {
           "title": "27年1月 CAPCOM CFB系列 手指人偶 快打旋風 6 Vol.2 (一中盒8入)",
@@ -347,8 +315,14 @@
     },
     {
       "date": "2026/8/27",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "27年1月 1/10 創彩少女庭園  外傳○○小姐系列 側馬尾醬 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/JK108",
+          "price": 1310,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a73efa84d935.jpg.webp"
+        },
         {
           "title": "27年3月 1/7 賽馬娘 成田大進 決勝服 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV363",
@@ -376,6 +350,19 @@
         }
       ],
       "days_left": 28
+    },
+    {
+      "date": "2026/9/7",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年1月 無限邂逅Megalo Maria Stars 女僕服Ver. 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/CX033",
+          "price": 1365,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a73effd84b2b.jpg.webp"
+        }
+      ],
+      "days_left": 32
     },
     {
       "date": "2026/9/14",
