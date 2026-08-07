@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07 16:59:20",
-  "total": 332,
+  "updated": "2026-08-07 18:07:20",
+  "total": 335,
   "groups": [
     {
       "date": "2026/8/13",
@@ -228,6 +228,19 @@
       "days_left": 13
     },
     {
+      "date": "2026/8/23",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年2月 ARCANADEA 阿爾卡納蒂亞 薇兒蕾特 First Engage Ver. 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/AA002",
+          "price": 840,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a75a2038f789.jpg.webp"
+        }
+      ],
+      "days_left": 16
+    },
+    {
       "date": "2026/8/25",
       "count": 1,
       "items": [
@@ -242,7 +255,7 @@
     },
     {
       "date": "2026/8/27",
-      "count": 2,
+      "count": 4,
       "items": [
         {
           "title": "27年1月 1/10 創彩少女庭園  外傳○○小姐系列 側馬尾醬 組裝模型",
@@ -255,6 +268,18 @@
           "url": "https://www.asiagoal.com.tw/item/PV363",
           "price": 4030,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a6ae691318ff.jpg.webp"
+        },
+        {
+          "title": "27年4月 D-STYLE 勇者王GaoGaiGar  超龍神 組裝模型(KP217R)",
+          "url": "https://www.asiagoal.com.tw/item/KP217R",
+          "price": 710,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a75a56812be0.jpg.webp"
+        },
+        {
+          "title": "27年4月 D-STYLE 機動警察 TYPE-J9 GRIFFON 組裝模型(KP139R)",
+          "url": "https://www.asiagoal.com.tw/item/KP139R",
+          "price": 590,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a75a517712eb.jpg.webp"
         }
       ],
       "days_left": 20
