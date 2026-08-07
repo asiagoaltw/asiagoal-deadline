@@ -441,7 +441,7 @@
   },
   {
     "title": "26年11月 女神裝置 M.S.G 10 臉部套組 PUNI☆MOFU用 膚色B 組裝模型",
-    "summary": "2026/8/6結單",
+    "summary": null,
     "route": "KP905",
     "price": 285,
     "origin_price": 475,
@@ -451,7 +451,7 @@
   },
   {
     "title": "26年11月 女神裝置 M.S.G 10 臉部套組 PUNI☆MOFU用 膚色A 組裝模型",
-    "summary": "2026/8/6結單",
+    "summary": null,
     "route": "KP904",
     "price": 285,
     "origin_price": 475,
@@ -461,7 +461,7 @@
   },
   {
     "title": "26年11月 女神裝置 M.S.G 09 手部零件套組 膚色D 組裝模型",
-    "summary": "2026/8/6結單",
+    "summary": null,
     "route": "KP897",
     "price": 285,
     "origin_price": 475,
@@ -471,7 +471,7 @@
   },
   {
     "title": "26年11月 女神裝置 M.S.G 09 手部零件套組 膚色C 組裝模型",
-    "summary": "2026/8/6結單",
+    "summary": null,
     "route": "KP896",
     "price": 285,
     "origin_price": 475,
@@ -581,7 +581,7 @@
   },
   {
     "title": "26年12月 GRANDE SCALE 大型比例 ARCANADEA 艾爾梅達 組裝模型",
-    "summary": "2026/8/6結單",
+    "summary": null,
     "route": "AG002",
     "price": 2290,
     "origin_price": 4095,
@@ -711,7 +711,7 @@
   },
   {
     "title": "26年12月 1/10 創彩少女庭園 藥師寺久遠 啦啦隊服裝 組裝模型 (JK101)",
-    "summary": "2026/8/6結單",
+    "summary": null,
     "route": "JK101",
     "price": 1420,
     "origin_price": 2363,
@@ -721,7 +721,7 @@
   },
   {
     "title": "26年11月 無限邂逅Megalo Maria 霜刃 EIS EIZEN 組裝模型 (CX031)",
-    "summary": "2026/8/6結單",
+    "summary": null,
     "route": "CX031",
     "price": 1690,
     "origin_price": 2835,
@@ -751,7 +751,7 @@
   },
   {
     "title": "26年12月 Megami Device 女神裝置 尤格拉希斯 伽爾姆 利刃 暴風雪 EYE DECAL SET 水貼",
-    "summary": "2026/8/6結單",
+    "summary": null,
     "route": "KP873",
     "price": 240,
     "origin_price": 320,
@@ -761,7 +761,7 @@
   },
   {
     "title": "26年11月 Megami Device 女神裝置 尤格拉希斯 伽爾姆 利刃 暴風雪 組裝模型",
-    "summary": "2026/8/6結單",
+    "summary": null,
     "route": "KP866",
     "price": 1270,
     "origin_price": 2270,
@@ -861,7 +861,7 @@
   },
   {
     "title": "26年11月 GRANDE SCALE 大型比例 洛克人 -洛克人 11 Ver.- 組裝模型",
-    "summary": "2026/8/6結單",
+    "summary": null,
     "route": "KP886",
     "price": 2310,
     "origin_price": 3940,
@@ -1260,8 +1260,18 @@
     "url": "https://www.asiagoal.com.tw/item/ghost-face-7-scale-action-figure-ultimate-santa-ghost-face"
   },
   {
+    "title": "26年11月 1/8 ARTFX J 寶可夢 黑白 透子&暖暖豬 PVC (再販)",
+    "summary": null,
+    "route": "pv304",
+    "price": 2710,
+    "origin_price": 4410,
+    "pre_order_hint": "日本預計發售月 2026年11月 (台灣預計12-1月到貨)",
+    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cda3b5122a.jpg.webp",
+    "url": "https://www.asiagoal.com.tw/item/pv304"
+  },
+  {
     "title": "26年12月 ARCANADEA 阿爾卡納蒂亞 惡魔型 奧爾妮菈 Ornela 組裝模型(AR018)",
-    "summary": "2026/8/6結單",
+    "summary": null,
     "route": "ar018",
     "price": 1590,
     "origin_price": 2835,
@@ -1640,6 +1650,16 @@
     "url": "https://www.asiagoal.com.tw/item/pv348"
   },
   {
+    "title": "26年12月 Megami Device 女神裝置 PUNI☆MOFU 貓貓 with 本田猴 Z50J-1 組裝模型",
+    "summary": null,
+    "route": "kp878",
+    "price": 1310,
+    "origin_price": 2205,
+    "pre_order_hint": "日本預計發售月 2026年12月 (台灣預計2027年1-2月到貨)",
+    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cc71121eba.jpg.webp",
+    "url": "https://www.asiagoal.com.tw/item/kp878"
+  },
+  {
     "title": "26年9月《超時空之鑰》FORM-ISM Figure 克羅諾",
     "summary": null,
     "route": "chrono-trigger-form-ism-figure-chrono",
@@ -1778,6 +1798,16 @@
     "pre_order_hint": "日本預計發售月 2026年9月 (台灣預計2026年10-11月到貨)",
     "photo": "https://image.bvshop.tw/6240/product/6240_6a2cc34fb53e5.png.webp",
     "url": "https://www.asiagoal.com.tw/item/kp872"
+  },
+  {
+    "title": "26年11月 1/8 英雄傳說 創之軌跡 勞拉·S·亞爾賽德 PVC",
+    "summary": null,
+    "route": "pv388",
+    "price": 4085,
+    "origin_price": 6615,
+    "pre_order_hint": "日本預計發售月 2026年11月 (台灣預計2026年9-10月到貨)",
+    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cc33a200e8.jpg.webp",
+    "url": "https://www.asiagoal.com.tw/item/pv388"
   },
   {
     "title": "26年9月 Frame Arms Girl 機甲少女 信玄 改 組裝模型(FG202)",
@@ -2030,6 +2060,16 @@
     "url": "https://www.asiagoal.com.tw/item/pv365"
   },
   {
+    "title": "26年11月 1/8 ARTFX J 我的英雄學院 轟焦凍 冷炎白刃Ver. PVC",
+    "summary": null,
+    "route": "pv375",
+    "price": 6380,
+    "origin_price": 10269,
+    "pre_order_hint": "日本預計發售月 2026年11月(台灣預計12-1月到貨)",
+    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cbee81ac67.jpg.webp",
+    "url": "https://www.asiagoal.com.tw/item/pv375"
+  },
+  {
     "title": "26年11月 1/7 學園偶像大師 月村手毬 Luna say maybe DX版 PVC",
     "summary": null,
     "route": "pv380",
@@ -2198,6 +2238,16 @@
     "pre_order_hint": "日本預計發售月 2026年10月(台灣預計11-12月到貨)",
     "photo": "https://image.bvshop.tw/6240/product/6240_6a2cba077cd6d.jpg.webp",
     "url": "https://www.asiagoal.com.tw/item/1674141-monster-hunter-wilds-plushie-rove"
+  },
+  {
+    "title": "26年12月 CAPCOM 魔物獵人CFB 盒玩Plus Vol.30(一中盒6入)",
+    "summary": null,
+    "route": "capcom-figure-builder-monster-hunter-standard-model-plus-vol-30",
+    "price": 2300,
+    "origin_price": 3420,
+    "pre_order_hint": "日本預計發售月 2026年12月(台灣預計27年1-2月到貨)",
+    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cb9f3680d1.jpg.webp",
+    "url": "https://www.asiagoal.com.tw/item/capcom-figure-builder-monster-hunter-standard-model-plus-vol-30"
   },
   {
     "title": "26年Q3 NECA 7吋 13號星期五 遊戲 傑森 可動公仔",
@@ -2878,6 +2928,16 @@
     "pre_order_hint": "預計發售月 2026年第1季",
     "photo": "https://image.bvshop.tw/6240/product/6240_6a2c9f122006c.jpg.webp",
     "url": "https://www.asiagoal.com.tw/item/one12-collective-tmnt-casey-jones"
+  },
+  {
+    "title": "26年12月 MAPPA x A・DIMENSION 鏈鋸人 by竹谷隆之 序號特別版",
+    "summary": null,
+    "route": "ad017",
+    "price": 14590,
+    "origin_price": 20100,
+    "pre_order_hint": "日本預計發售月 2026年12月",
+    "photo": "https://image.bvshop.tw/6240/product/6240_6a2c9b06cd02d.jpg.webp",
+    "url": "https://www.asiagoal.com.tw/item/ad017"
   },
   {
     "title": "27年3月 Design COCO 1/7 GRIDMAN UNIVERSE 寶多六花 AXGRIT Ver",
