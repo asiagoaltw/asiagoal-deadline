@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10 13:35:51",
-  "total": 335,
+  "updated": "2026-08-10 15:42:00",
+  "total": 336,
   "groups": [
     {
       "date": "2026/8/13",
@@ -252,6 +252,19 @@
         }
       ],
       "days_left": 15
+    },
+    {
+      "date": "2026/8/26",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年3月 Frame Arms Girl 機甲少女 Mizuki 學校泳裝 Ver. 白色 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KO08633",
+          "price": 1005,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a797322ac296.jpg.webp"
+        }
+      ],
+      "days_left": 16
     },
     {
       "date": "2026/8/27",
