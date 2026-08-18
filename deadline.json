@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18 16:36:56",
-  "total": 309,
+  "updated": "2026-08-18 17:33:42",
+  "total": 310,
   "groups": [
     {
       "date": "2026/8/20",
@@ -276,6 +276,19 @@
         }
       ],
       "days_left": 31
+    },
+    {
+      "date": "2026/10/5",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年7月 DesignCOCO 1/7 Re 從零開始的異世界生活 愛蜜莉雅 婚紗ver",
+          "url": "https://www.asiagoal.com.tw/item/coco101",
+          "price": 5500,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a841b2f73aa4.jpg.webp"
+        }
+      ],
+      "days_left": 48
     },
     {
       "date": "2026/10/7",
