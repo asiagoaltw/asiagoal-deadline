@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19 09:15:20",
-  "total": 306,
+  "updated": "2026-08-19 10:57:20",
+  "total": 308,
   "groups": [
     {
       "date": "2026/8/20",
@@ -241,8 +241,14 @@
     },
     {
       "date": "2026/9/17",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "27年3月 1/8 英雄傳說 黎之軌跡 范恩 亞克萊德 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV428",
+          "price": 4785,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a85105056d11.jpg.webp"
+        },
         {
           "title": "27年3月 2/1 Megami Device 女神裝置 PUNI☆MOFU 貓貓 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV374",
@@ -276,6 +282,19 @@
         }
       ],
       "days_left": 30
+    },
+    {
+      "date": "2026/10/5",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年7月 DesignCOCO 1/7 Re 從零開始的異世界生活 愛蜜莉雅 婚紗ver",
+          "url": "https://www.asiagoal.com.tw/item/coco101",
+          "price": 5500,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a841b2f73aa4.jpg.webp"
+        }
+      ],
+      "days_left": 47
     },
     {
       "date": "2026/10/7",
