@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19 11:51:07",
-  "total": 308,
+  "updated": "2026-08-19 12:36:58",
+  "total": 313,
   "groups": [
     {
       "date": "2026/8/20",
@@ -127,13 +127,31 @@
     },
     {
       "date": "2026/8/26",
-      "count": 1,
+      "count": 4,
       "items": [
         {
           "title": "27年3月 Frame Arms Girl 機甲少女 Mizuki 學校泳裝 Ver. 白色 組裝模型",
           "url": "https://www.asiagoal.com.tw/item/KO08633",
           "price": 1005,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a797322ac296.jpg.webp"
+        },
+        {
+          "title": "27年4月 1/3000 銀河英雄傳說 自由惑星同盟區 戰艦 休伯利安 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/kp770",
+          "price": 1790,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a2c9f5a6e492.jpg.webp"
+        },
+        {
+          "title": "27年4月 1/3000 銀河英雄傳說 銀河帝國軍 戰艦 伯倫希爾 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP768",
+          "price": 1790,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a852c9cf01f3.jpg.webp"
+        },
+        {
+          "title": "27年4月 1/400 泛用人形決戰武器 人造人間新世紀福音戰士正規實用型 新2號機α 組裝模型(KP536)",
+          "url": "https://www.asiagoal.com.tw/item/KP536",
+          "price": 2615,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a852c4a67aa7.jpg.webp"
         }
       ],
       "days_left": 7
@@ -282,6 +300,25 @@
         }
       ],
       "days_left": 30
+    },
+    {
+      "date": "2026/10/1",
+      "count": 2,
+      "items": [
+        {
+          "title": "27年5月 1/100 新世紀福音戰士劇場版  要人輸送用司令官專用垂直離著陸機 組裝模型(再販)",
+          "url": "https://www.asiagoal.com.tw/item/KP182R",
+          "price": 825,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a852e417d5ef.jpg.webp"
+        },
+        {
+          "title": "27年5月 Megami Device 女神裝置 B1R-M 軀幹套裝 膚色A 組裝模型(KP646)",
+          "url": "https://www.asiagoal.com.tw/item/KP646",
+          "price": 895,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a852ead75111.jpg.webp"
+        }
+      ],
+      "days_left": 43
     },
     {
       "date": "2026/10/5",
