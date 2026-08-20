@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20 17:34:48",
-  "total": 313,
+  "updated": "2026-08-20 18:30:28",
+  "total": 314,
   "groups": [
     {
       "date": "2026/8/20",
@@ -300,6 +300,19 @@
         }
       ],
       "days_left": 29
+    },
+    {
+      "date": "2026/9/22",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年3月 1/8 ARTFX J 寶可夢 黑白 鬥也&比克提尼 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV302",
+          "price": 2904,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a86ca76b8169.jpg.webp"
+        }
+      ],
+      "days_left": 33
     },
     {
       "date": "2026/10/1",
