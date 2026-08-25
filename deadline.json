@@ -1,20 +1,7 @@
 {
-  "updated": "2026-08-25 16:42:12",
-  "total": 316,
+  "updated": "2026-08-25 17:35:19",
+  "total": 324,
   "groups": [
-    {
-      "date": "2026/8/23",
-      "count": 1,
-      "items": [
-        {
-          "title": "27年2月 ARCANADEA 阿爾卡納蒂亞 薇兒蕾特 First Engage Ver. 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/AA002",
-          "price": 840,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a75a2038f789.jpg.webp"
-        }
-      ],
-      "days_left": -2
-    },
     {
       "date": "2026/8/25",
       "count": 2,
@@ -236,9 +223,34 @@
       "days_left": 28
     },
     {
-      "date": "2026/10/1",
-      "count": 2,
+      "date": "2026/9/23",
+      "count": 1,
       "items": [
+        {
+          "title": "27年2月 1/8 英雄傳說 軌跡系列 空之軌跡 艾絲蒂爾·布萊特 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV509",
+          "price": 3905,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5f8f625bd.jpg.webp"
+        }
+      ],
+      "days_left": 29
+    },
+    {
+      "date": "2026/10/1",
+      "count": 4,
+      "items": [
+        {
+          "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 XenoAlma系列 歐拉吉 帕沃雷亞 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KO06433",
+          "price": 645,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5bde7b973.jpg.webp"
+        },
+        {
+          "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 結雲 First Engage Ver. 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/AA003",
+          "price": 960,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5b78422eb.jpg.webp"
+        },
         {
           "title": "27年5月 1/100 新世紀福音戰士劇場版  要人輸送用司令官專用垂直離著陸機 組裝模型(再販)",
           "url": "https://www.asiagoal.com.tw/item/KP182R",
@@ -269,8 +281,32 @@
     },
     {
       "date": "2026/10/7",
-      "count": 1,
+      "count": 5,
       "items": [
+        {
+          "title": "27年2月 心推工坊Mini 女神異聞錄3 主人公 完成品",
+          "url": "https://www.asiagoal.com.tw/item/QA011",
+          "price": 330,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5ddf2e485.jpg.webp"
+        },
+        {
+          "title": "27年2月 心推工坊Mini 女神異聞錄5 皇家版 Joker 完成品",
+          "url": "https://www.asiagoal.com.tw/item/QA012",
+          "price": 330,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5e2ec2fb1.jpg.webp"
+        },
+        {
+          "title": "27年2月 心推工坊Mini 藥師少女的獨語 貓貓 園遊會 Ver. 完成品",
+          "url": "https://www.asiagoal.com.tw/item/QA020",
+          "price": 330,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5e8521045.jpg.webp"
+        },
+        {
+          "title": "27年2月 心推工坊Mini 藥師少女的獨語 貓貓 完成品",
+          "url": "https://www.asiagoal.com.tw/item/QA010",
+          "price": 330,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5c6ae1013.jpg.webp"
+        },
         {
           "title": "27年4月 心推工坊 女神異聞錄5 皇家版 Crow 完成品",
           "url": "https://www.asiagoal.com.tw/item/GP029",
@@ -292,6 +328,19 @@
         }
       ],
       "days_left": 50
+    },
+    {
+      "date": "2026/10/15",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年4月 1/7 庫洛魔法使 木之本櫻 包圍 Siege 服裝 Ver. PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV426",
+          "price": 4515,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5ee5df136.jpg.webp"
+        }
+      ],
+      "days_left": 51
     },
     {
       "date": "2026/10/19",
