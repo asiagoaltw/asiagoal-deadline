@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31 07:14:41",
-  "total": 312,
+  "updated": "2026-08-31 12:06:17",
+  "total": 313,
   "groups": [
     {
       "date": "2026/9/3",
@@ -137,13 +137,19 @@
     },
     {
       "date": "2026/9/23",
-      "count": 1,
+      "count": 2,
       "items": [
         {
           "title": "27年2月 1/8 英雄傳說 軌跡系列 空之軌跡 艾絲蒂爾·布萊特 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV509",
           "price": 3905,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5f8f625bd.jpg.webp"
+        },
+        {
+          "title": "27年2月 ARCANADEA 阿爾卡納蒂亞 巴尼爾 組裝模型(AR015)",
+          "url": "https://www.asiagoal.com.tw/item/AR015",
+          "price": 1900,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a94f5fad796c.jpg.webp"
         }
       ],
       "days_left": 23
