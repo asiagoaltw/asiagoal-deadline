@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02 11:14:51",
-  "total": 315,
+  "updated": "2026-09-02 16:28:21",
+  "total": 322,
   "groups": [
     {
       "date": "2026/9/3",
@@ -143,8 +143,20 @@
     },
     {
       "date": "2026/9/23",
-      "count": 2,
+      "count": 6,
       "items": [
+        {
+          "title": "27年1月 Megami Device 女神裝置 尤格拉希斯 斯庫爾 神射手 暴風 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP869",
+          "price": 1265,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a1c2c3708.jpg.webp"
+        },
+        {
+          "title": "27年2月 1/7 賽馬娘 帝王光輝 決勝服 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV238",
+          "price": 4315,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a15ba7180.jpg.webp"
+        },
         {
           "title": "27年2月 1/8 英雄傳說 軌跡系列 空之軌跡 艾絲蒂爾·布萊特 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV509",
@@ -156,6 +168,18 @@
           "url": "https://www.asiagoal.com.tw/item/AR015",
           "price": 1900,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a94f5fad796c.jpg.webp"
+        },
+        {
+          "title": "27年2月 女神裝置M.S.G 尤格拉希斯 斯庫爾 神射手 暴風 EYE DECAL SET 水貼",
+          "url": "https://www.asiagoal.com.tw/item/KP874",
+          "price": 240,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a20e26043.jpg.webp"
+        },
+        {
+          "title": "27年3月 心推工坊  槍神 TRIGUN STARGAZE  密利歐 奈布茲 完成品",
+          "url": "https://www.asiagoal.com.tw/item/GP031",
+          "price": 1760,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a0017840f.jpg.webp"
         }
       ],
       "days_left": 21
@@ -206,8 +230,20 @@
     },
     {
       "date": "2026/10/7",
-      "count": 5,
+      "count": 7,
       "items": [
+        {
+          "title": "27年1月 1/27 機戰傭兵 CREST CR-C75U2 白兵戰Ver. 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/VI099",
+          "price": 1645,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a0af40cff.jpg.webp"
+        },
+        {
+          "title": "27年2月 MSG武裝零件 MH80 重武器組件 80 EVIL OX 邪惡巨斧 灰色Ver. 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/MH80",
+          "price": 325,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a056548d0.jpg.webp"
+        },
         {
           "title": "27年2月 心推工坊Mini 女神異聞錄3 主人公 完成品",
           "url": "https://www.asiagoal.com.tw/item/QA011",
@@ -262,13 +298,19 @@
     },
     {
       "date": "2026/10/15",
-      "count": 1,
+      "count": 2,
       "items": [
         {
           "title": "27年4月 1/7 庫洛魔法使 木之本櫻 包圍 Siege 服裝 Ver. PVC",
           "url": "https://www.asiagoal.com.tw/item/PV426",
           "price": 4515,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5ee5df136.jpg.webp"
+        },
+        {
+          "title": "27年4月 1/8 英雄傳說 黎之軌跡Ⅱ 緋紅原罪 蕾恩 布萊特 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV431",
+          "price": 4710,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a0f3a6296.jpg.webp"
         }
       ],
       "days_left": 43
