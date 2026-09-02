@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02 16:28:21",
+  "updated": "2026-09-02 21:18:17",
   "total": 322,
   "groups": [
     {
@@ -279,14 +279,8 @@
     },
     {
       "date": "2026/10/14",
-      "count": 2,
+      "count": 1,
       "items": [
-        {
-          "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 埃尼爾 組裝模型(AR016)",
-          "url": "https://www.asiagoal.com.tw/item/AR016",
-          "price": 1900,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a96a1c0bd9d9.jpg.webp"
-        },
         {
           "title": "27年8月 Design COCO 勝利女神 妮姬 阿爾卡娜 PVC",
           "url": "https://www.asiagoal.com.tw/item/coco097",
@@ -298,8 +292,14 @@
     },
     {
       "date": "2026/10/15",
-      "count": 2,
+      "count": 3,
       "items": [
+        {
+          "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 埃尼爾 組裝模型(AR016)",
+          "url": "https://www.asiagoal.com.tw/item/AR016",
+          "price": 1900,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a96a1c0bd9d9.jpg.webp"
+        },
         {
           "title": "27年4月 1/7 庫洛魔法使 木之本櫻 包圍 Siege 服裝 Ver. PVC",
           "url": "https://www.asiagoal.com.tw/item/PV426",
