@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 21:17:46",
+  "updated": "2026-09-04 01:33:43",
   "total": 318,
   "groups": [
     {
@@ -31,7 +31,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a4f80d813f53.jpg.webp"
         }
       ],
-      "days_left": 0
+      "days_left": -1
     },
     {
       "date": "2026/9/7",
@@ -44,7 +44,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a73effd84b2b.jpg.webp"
         }
       ],
-      "days_left": 4
+      "days_left": 3
     },
     {
       "date": "2026/9/14",
@@ -57,7 +57,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a2cd3305d523.jpg.webp"
         }
       ],
-      "days_left": 11
+      "days_left": 10
     },
     {
       "date": "2026/9/15",
@@ -76,7 +76,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a700937d58af.jpg.webp"
         }
       ],
-      "days_left": 12
+      "days_left": 11
     },
     {
       "date": "2026/9/17",
@@ -101,7 +101,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a6ffe318d142.jpg.webp"
         }
       ],
-      "days_left": 14
+      "days_left": 13
     },
     {
       "date": "2026/9/18",
@@ -132,7 +132,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a69b3952e920.jpg.webp"
         }
       ],
-      "days_left": 15
+      "days_left": 14
     },
     {
       "date": "2026/9/22",
@@ -145,7 +145,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a86ca76b8169.jpg.webp"
         }
       ],
-      "days_left": 19
+      "days_left": 18
     },
     {
       "date": "2026/9/23",
@@ -206,7 +206,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a992ca73a971.jpg.webp"
         }
       ],
-      "days_left": 20
+      "days_left": 19
     },
     {
       "date": "2026/10/1",
@@ -237,7 +237,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a852ead75111.jpg.webp"
         }
       ],
-      "days_left": 28
+      "days_left": 27
     },
     {
       "date": "2026/10/5",
@@ -250,7 +250,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a841b2f73aa4.jpg.webp"
         }
       ],
-      "days_left": 32
+      "days_left": 31
     },
     {
       "date": "2026/10/7",
@@ -299,7 +299,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a62f8e9b6c2a.jpg.webp"
         }
       ],
-      "days_left": 34
+      "days_left": 33
     },
     {
       "date": "2026/10/14",
@@ -312,7 +312,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a475835ed9cf.jpg.webp"
         }
       ],
-      "days_left": 41
+      "days_left": 40
     },
     {
       "date": "2026/10/15",
@@ -337,7 +337,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a97a0f3a6296.jpg.webp"
         }
       ],
-      "days_left": 42
+      "days_left": 41
     },
     {
       "date": "2026/10/19",
@@ -350,7 +350,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a62fd2360b76.jpg.webp"
         }
       ],
-      "days_left": 46
+      "days_left": 45
     },
     {
       "date": "2026/10/29",
@@ -363,7 +363,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a62f93e904b3.jpg.webp"
         }
       ],
-      "days_left": 56
+      "days_left": 55
     }
   ]
 }
