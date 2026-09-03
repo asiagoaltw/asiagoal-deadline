@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03 11:17:19",
-  "total": 322,
+  "updated": "2026-09-03 16:36:37",
+  "total": 325,
   "groups": [
     {
       "date": "2026/9/3",
@@ -105,8 +105,14 @@
     },
     {
       "date": "2026/9/18",
-      "count": 3,
+      "count": 4,
       "items": [
+        {
+          "title": "26年12月 無限邂逅Megalo Mari  篝火 真里亞 戰鬥裝束 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/CX017-1",
+          "price": 1420,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a992f8860f3e.jpg.webp"
+        },
         {
           "title": "27年2月 CAPCOM 魔物獵人 荒野 櫻花艾路泰迪熊",
           "url": "https://www.asiagoal.com.tw/item/4976219140614",
@@ -143,7 +149,7 @@
     },
     {
       "date": "2026/9/23",
-      "count": 6,
+      "count": 9,
       "items": [
         {
           "title": "27年1月 Megami Device 女神裝置 尤格拉希斯 斯庫爾 神射手 暴風 組裝模型",
@@ -170,16 +176,34 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a94f5fad796c.jpg.webp"
         },
         {
+          "title": "27年2月 Frame Arms Girl 機甲少女 輝鎚·乙 狙擊仕樣 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/FG170",
+          "price": 1570,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a992d5a098df.jpg.webp"
+        },
+        {
           "title": "27年2月 女神裝置M.S.G 尤格拉希斯 斯庫爾 神射手 暴風 EYE DECAL SET 水貼",
           "url": "https://www.asiagoal.com.tw/item/KP874",
           "price": 240,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a97a20e26043.jpg.webp"
         },
         {
+          "title": "27年2月 無限邂逅Megalo Mari 模擬人形 Emulator#3 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/CX041",
+          "price": 1460,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a992c39b2949.jpg.webp"
+        },
+        {
           "title": "27年3月 心推工坊  槍神 TRIGUN STARGAZE  密利歐 奈布茲 完成品",
           "url": "https://www.asiagoal.com.tw/item/GP031",
           "price": 1760,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a97a0017840f.jpg.webp"
+        },
+        {
+          "title": "27年3月 無限邂逅Megalo Mari 殘骸獵人Wreckage Hunter 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/CX052",
+          "price": 2065,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a992ca73a971.jpg.webp"
         }
       ],
       "days_left": 20
