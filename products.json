@@ -1,5 +1,65 @@
 [
   {
+    "title": "26年Q4 麥當勞 漢堡神偷 絨毛",
+    "summary": "2026/9/4結單",
+    "route": "88397519682-0",
+    "price": 480,
+    "origin_price": 599,
+    "pre_order_hint": "預計發售 2026年第四季",
+    "photo": "https://image.bvshop.tw/6240/product/6240_6a9a6a2a57427.jpg.webp",
+    "url": "https://www.asiagoal.com.tw/item/88397519682-0"
+  },
+  {
+    "title": "26年Q4 麥當勞 大鳥姐姐 絨毛",
+    "summary": "2026/9/4結單",
+    "route": "88397519694-3",
+    "price": 480,
+    "origin_price": 599,
+    "pre_order_hint": "預計發售 2026年第四季",
+    "photo": "https://image.bvshop.tw/6240/product/6240_6a9a69f2941ce.jpg.webp",
+    "url": "https://www.asiagoal.com.tw/item/88397519694-3"
+  },
+  {
+    "title": "26年Q4 麥當勞 奶昔大哥 絨毛",
+    "summary": "2026/9/4結單",
+    "route": "88397519681-3",
+    "price": 480,
+    "origin_price": 599,
+    "pre_order_hint": "預計發售 2026年第四季",
+    "photo": "https://image.bvshop.tw/6240/product/6240_6a9a69c25645d.jpg.webp",
+    "url": "https://www.asiagoal.com.tw/item/88397519681-3"
+  },
+  {
+    "title": "26年Q4 8吋 麥當勞 漢堡神偷  搖頭公仔",
+    "summary": "2026/9/4結單",
+    "route": "63448209048-0",
+    "price": 990,
+    "origin_price": 1350,
+    "pre_order_hint": "預計發售 2026年第四季",
+    "photo": "https://image.bvshop.tw/6240/product/6240_6a9a69720cd50.jpg.webp",
+    "url": "https://www.asiagoal.com.tw/item/63448209048-0"
+  },
+  {
+    "title": "26年Q4 8吋 麥當勞 奶昔大哥 搖頭公仔",
+    "summary": "2026/9/4結單",
+    "route": "63448209047-3",
+    "price": 990,
+    "origin_price": 1350,
+    "pre_order_hint": "預計發售月 2026年Q4",
+    "photo": "https://image.bvshop.tw/6240/product/6240_6a9a6649c321d.jpg.webp",
+    "url": "https://www.asiagoal.com.tw/item/63448209047-3"
+  },
+  {
+    "title": "27年Q2 8吋 麥當勞 大麥克 DUNNY 公仔",
+    "summary": "2026/9/4結單",
+    "route": "88397519776-6",
+    "price": 4500,
+    "origin_price": 5250,
+    "pre_order_hint": "預計發售月 2027年第二季",
+    "photo": "https://image.bvshop.tw/6240/product/6240_6a9a65ea6f4f6.png.webp",
+    "url": "https://www.asiagoal.com.tw/item/88397519776-6"
+  },
+  {
     "title": "26年12月 無限邂逅Megalo Mari  篝火 真里亞 戰鬥裝束 組裝模型",
     "summary": "2026/9/18結單",
     "route": "CX017-1",
@@ -800,16 +860,6 @@
     "url": "https://www.asiagoal.com.tw/item/GP029"
   },
   {
-    "title": "27年3月 心推工坊 女神異聞錄5 皇家版 Violet 完成品",
-    "summary": null,
-    "route": "GP026",
-    "price": 2160,
-    "origin_price": 3150,
-    "pre_order_hint": "日本預計發售月 2027年3月（台灣預計2027年4-5月到貨）",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a62f89d1ed82.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/GP026"
-  },
-  {
     "title": "27年2月 心推工坊 進擊的巨人 米卡莎 阿卡曼 The Final Season ver. 完成品",
     "summary": null,
     "route": "GP034",
@@ -1048,16 +1098,6 @@
     "pre_order_hint": "日本預計發售月 2026年12月（台灣預計2027年1-2月到貨）",
     "photo": "https://image.bvshop.tw/6240/product/6240_6a5469e2884ac.jpg.webp",
     "url": "https://www.asiagoal.com.tw/item/KP831"
-  },
-  {
-    "title": "27年3月1/7 碧藍航線 興登堡 PVC",
-    "summary": null,
-    "route": "PV355",
-    "price": 6700,
-    "origin_price": 10870,
-    "pre_order_hint": "日本預計發售月 2027年3月 (台灣預計4-5月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a4f80d813f53.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/PV355"
   },
   {
     "title": "26年12月Frame Arms Girl 機甲少女 閃鐮 組裝模型(FG110)",
@@ -2930,12 +2970,12 @@
     "url": "https://www.asiagoal.com.tw/item/the-detective-is-already-dead-siesta-swimsuit-ver-17-complete-figure"
   },
   {
-    "title": "26年9月 Design COCO 1/7 魔女之旅 伊蕾娜 PVC",
-    "summary": "",
+    "title": "26年11月 Design COCO 1/7 魔女之旅 伊蕾娜 PVC",
+    "summary": null,
     "route": "coco043",
     "price": 5380,
     "origin_price": 8100,
-    "pre_order_hint": "日本預計發售月 2026年9月",
+    "pre_order_hint": "日本預計發售延期至月 2026年11月",
     "photo": "https://image.bvshop.tw/6240/product/6240_6a2c9398e00ed.jpg.webp",
     "url": "https://www.asiagoal.com.tw/item/coco043"
   },

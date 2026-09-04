@@ -1,7 +1,50 @@
 {
-  "updated": "2026-09-04 13:34:54",
-  "total": 325,
+  "updated": "2026-09-04 18:45:31",
+  "total": 329,
   "groups": [
+    {
+      "date": "2026/9/4",
+      "count": 6,
+      "items": [
+        {
+          "title": "26年Q4 8吋 麥當勞 奶昔大哥 搖頭公仔",
+          "url": "https://www.asiagoal.com.tw/item/63448209047-3",
+          "price": 990,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a9a6649c321d.jpg.webp"
+        },
+        {
+          "title": "26年Q4 8吋 麥當勞 漢堡神偷  搖頭公仔",
+          "url": "https://www.asiagoal.com.tw/item/63448209048-0",
+          "price": 990,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a9a69720cd50.jpg.webp"
+        },
+        {
+          "title": "26年Q4 麥當勞 大鳥姐姐 絨毛",
+          "url": "https://www.asiagoal.com.tw/item/88397519694-3",
+          "price": 480,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a9a69f2941ce.jpg.webp"
+        },
+        {
+          "title": "26年Q4 麥當勞 奶昔大哥 絨毛",
+          "url": "https://www.asiagoal.com.tw/item/88397519681-3",
+          "price": 480,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a9a69c25645d.jpg.webp"
+        },
+        {
+          "title": "26年Q4 麥當勞 漢堡神偷 絨毛",
+          "url": "https://www.asiagoal.com.tw/item/88397519682-0",
+          "price": 480,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a9a6a2a57427.jpg.webp"
+        },
+        {
+          "title": "27年Q2 8吋 麥當勞 大麥克 DUNNY 公仔",
+          "url": "https://www.asiagoal.com.tw/item/88397519776-6",
+          "price": 4500,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a9a65ea6f4f6.png.webp"
+        }
+      ],
+      "days_left": 0
+    },
     {
       "date": "2026/9/7",
       "count": 1,
