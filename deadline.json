@@ -1,20 +1,7 @@
 {
-  "updated": "2026-09-08 13:43:59",
-  "total": 327,
+  "updated": "2026-09-08 18:43:53",
+  "total": 331,
   "groups": [
-    {
-      "date": "2026/9/7",
-      "count": 1,
-      "items": [
-        {
-          "title": "27年1月 無限邂逅Megalo Maria Stars 女僕服Ver. 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/CX033",
-          "price": 1365,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a73effd84b2b.jpg.webp"
-        }
-      ],
-      "days_left": -1
-    },
     {
       "date": "2026/9/14",
       "count": 1,
@@ -179,7 +166,7 @@
     },
     {
       "date": "2026/10/1",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 XenoAlma系列 歐拉吉 帕沃雷亞 組裝模型",
@@ -198,6 +185,12 @@
           "url": "https://www.asiagoal.com.tw/item/KP182R",
           "price": 825,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a852e417d5ef.jpg.webp"
+        },
+        {
+          "title": "27年5月 Frame Arms Girl 機甲少女 突伽 II  Durga- II   組裝模型(FG086R)",
+          "url": "https://www.asiagoal.com.tw/item/FG086R",
+          "price": 1795,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a9fd9f616b44.jpg.webp"
         },
         {
           "title": "27年5月 Megami Device 女神裝置 B1R-M 軀幹套裝 膚色A 組裝模型(KP646)",
@@ -229,13 +222,19 @@
     },
     {
       "date": "2026/10/7",
-      "count": 7,
+      "count": 8,
       "items": [
         {
           "title": "27年1月 1/27 機戰傭兵 CREST CR-C75U2 白兵戰Ver. 組裝模型",
           "url": "https://www.asiagoal.com.tw/item/VI099",
           "price": 1645,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a97a0af40cff.jpg.webp"
+        },
+        {
+          "title": "27年2月 GRANDE SCALE 大型比例 ARCANADEA 露蜜提雅ReACT-A 暗屬性 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/AG003",
+          "price": 2245,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a9fd7f44f219.jpg.webp"
         },
         {
           "title": "27年2月 MSG武裝零件 MH80 重武器組件 80 EVIL OX 邪惡巨斧 灰色Ver. 組裝模型",
@@ -329,16 +328,35 @@
     },
     {
       "date": "2026/10/29",
-      "count": 1,
+      "count": 2,
       "items": [
         {
           "title": "27年5月 1/4 勝利女神：妮姬 阿妮斯:閃耀夏日 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV341",
           "price": 7920,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a62f93e904b3.jpg.webp"
+        },
+        {
+          "title": "27年5月 1/7 少女前線2 追放 維克托 戰地兔影Ver. PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV371",
+          "price": 4325,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a9fd8d31182b.jpg.webp"
         }
       ],
       "days_left": 51
+    },
+    {
+      "date": "2026/11/5",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年4月 1/8 無盡傳奇 蜜拉・麥斯威爾 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV387",
+          "price": 4920,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a9fd975b6e57.jpg.webp"
+        }
+      ],
+      "days_left": 58
     }
   ]
 }
