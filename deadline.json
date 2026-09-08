@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08 08:56:37",
-  "total": 326,
+  "updated": "2026-09-08 13:43:59",
+  "total": 327,
   "groups": [
     {
       "date": "2026/9/7",
@@ -179,7 +179,7 @@
     },
     {
       "date": "2026/10/1",
-      "count": 4,
+      "count": 5,
       "items": [
         {
           "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 XenoAlma系列 歐拉吉 帕沃雷亞 組裝模型",
@@ -204,6 +204,12 @@
           "url": "https://www.asiagoal.com.tw/item/KP646",
           "price": 895,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a852ead75111.jpg.webp"
+        },
+        {
+          "title": "27年6月 壽屋賞 ARCANADEA 阿爾卡納蒂亞 第二彈",
+          "url": "https://www.asiagoal.com.tw/item/GV229",
+          "price": 22800,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a9f88ffd14a0.jpg.webp"
         }
       ],
       "days_left": 23
