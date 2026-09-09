@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09 11:27:19",
-  "total": 322,
+  "updated": "2026-09-09 16:42:56",
+  "total": 325,
   "groups": [
     {
       "date": "2026/9/14",
@@ -166,8 +166,14 @@
     },
     {
       "date": "2026/10/1",
-      "count": 6,
+      "count": 7,
       "items": [
+        {
+          "title": "27年1月 女神裝置 M.S.G 09 手部零件套組 膚色E",
+          "url": "https://www.asiagoal.com.tw/item/KP911",
+          "price": 280,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aa0e0ca5e48f.jpg.webp"
+        },
         {
           "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 XenoAlma系列 歐拉吉 帕沃雷亞 組裝模型",
           "url": "https://www.asiagoal.com.tw/item/KO06433",
@@ -222,7 +228,7 @@
     },
     {
       "date": "2026/10/7",
-      "count": 8,
+      "count": 10,
       "items": [
         {
           "title": "27年1月 1/27 機戰傭兵 CREST CR-C75U2 白兵戰Ver. 組裝模型",
@@ -241,6 +247,12 @@
           "url": "https://www.asiagoal.com.tw/item/MH80",
           "price": 325,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a97a056548d0.jpg.webp"
+        },
+        {
+          "title": "27年2月 Megami Device 女神裝置 慾望少女 護士 夜勤版 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP870",
+          "price": 1265,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aa0de71b3e70.jpg.webp"
         },
         {
           "title": "27年2月 心推工坊Mini 女神異聞錄3 主人公 完成品",
@@ -265,6 +277,12 @@
           "url": "https://www.asiagoal.com.tw/item/QA010",
           "price": 330,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5c6ae1013.jpg.webp"
+        },
+        {
+          "title": "27年3月 女神裝置 M.S.G 慾望少女 護士 夜勤版 眼睛 DECAL SET 水貼",
+          "url": "https://www.asiagoal.com.tw/item/KP876",
+          "price": 240,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aa0e1119dfdd.jpg.webp"
         },
         {
           "title": "27年4月 心推工坊 女神異聞錄5 皇家版 Crow 完成品",
