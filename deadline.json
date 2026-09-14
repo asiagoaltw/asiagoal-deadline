@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14 13:52:07",
-  "total": 325,
+  "updated": "2026-09-14 20:00:09",
+  "total": 326,
   "groups": [
     {
       "date": "2026/9/14",
@@ -308,7 +308,7 @@
     },
     {
       "date": "2026/10/15",
-      "count": 3,
+      "count": 4,
       "items": [
         {
           "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 埃尼爾 組裝模型(AR016)",
@@ -327,6 +327,12 @@
           "url": "https://www.asiagoal.com.tw/item/PV431",
           "price": 4710,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a97a0f3a6296.jpg.webp"
+        },
+        {
+          "title": "27年5月 1/8 偶像大師百萬人演唱會 最上静香-The Animation- ASOBI STORE＆壽屋限定品 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV413",
+          "price": 4825,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aa7a4de7fc5c.jpg.webp"
         }
       ],
       "days_left": 31
