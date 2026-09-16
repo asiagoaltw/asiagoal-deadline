@@ -1,26 +1,7 @@
 {
-  "updated": "2026-09-16 07:59:34",
+  "updated": "2026-09-16 12:39:27",
   "total": 326,
   "groups": [
-    {
-      "date": "2026/9/15",
-      "count": 2,
-      "items": [
-        {
-          "title": "27年10月 SQUARE ENIX MASTERLINE 1/4 太空戰士7 重生 艾莉絲  完成品",
-          "url": "https://www.asiagoal.com.tw/item/4988601295895",
-          "price": 57200,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a7009247bab7.jpg.webp"
-        },
-        {
-          "title": "27年9月 SQUARE ENIX MASTERLINE 1/4 太空戰士7 重生 艾莉絲 豪華版 完成品",
-          "url": "https://www.asiagoal.com.tw/item/4988601295888",
-          "price": 62150,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a700937d58af.jpg.webp"
-        }
-      ],
-      "days_left": -1
-    },
     {
       "date": "2026/9/17",
       "count": 3,
@@ -153,7 +134,7 @@
     },
     {
       "date": "2026/10/1",
-      "count": 7,
+      "count": 8,
       "items": [
         {
           "title": "27年1月 女神裝置 M.S.G 09 手部零件套組 膚色E",
@@ -190,6 +171,12 @@
           "url": "https://www.asiagoal.com.tw/item/KP646",
           "price": 895,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a852ead75111.jpg.webp"
+        },
+        {
+          "title": "27年5月 無限邂逅Megalo Mari 警官 VALIANT  組裝模型 再販(CX021)",
+          "url": "https://www.asiagoal.com.tw/item/CX021",
+          "price": 1585,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aaa027413ebb.jpg.webp"
         },
         {
           "title": "27年6月 壽屋賞 ARCANADEA 阿爾卡納蒂亞 第二彈",
@@ -339,7 +326,7 @@
     },
     {
       "date": "2026/10/29",
-      "count": 2,
+      "count": 3,
       "items": [
         {
           "title": "27年5月 1/4 勝利女神：妮姬 阿妮斯:閃耀夏日 PVC",
@@ -352,19 +339,43 @@
           "url": "https://www.asiagoal.com.tw/item/PV371",
           "price": 4325,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a9fd8d31182b.jpg.webp"
+        },
+        {
+          "title": "27年6月 Megami Device 女神裝置 B1R-M 軀幹套裝 膚色B 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP832",
+          "price": 895,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aaa0b57d36ab.jpg.webp"
         }
       ],
       "days_left": 43
     },
     {
       "date": "2026/11/5",
-      "count": 1,
+      "count": 4,
       "items": [
         {
           "title": "27年4月 1/8 無盡傳奇 蜜拉・麥斯威爾 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV387",
           "price": 4920,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a9fd975b6e57.jpg.webp"
+        },
+        {
+          "title": "27年4月 MSG武裝零件 GE015 賢德風采15 幻影之劍 深紅色版",
+          "url": "https://www.asiagoal.com.tw/item/GE015",
+          "price": 295,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aaa035ae2b87.jpg.webp"
+        },
+        {
+          "title": "27年4月 MSG武裝零件 MJ36 潛行任務斗篷 深紅色版",
+          "url": "https://www.asiagoal.com.tw/item/MJ36",
+          "price": 325,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aaa0312318c7.jpg.webp"
+        },
+        {
+          "title": "27年4月 MSG武裝零件 MJ37 擴展裝甲E 禮服Ver. 深紅色",
+          "url": "https://www.asiagoal.com.tw/item/MJ37",
+          "price": 295,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aaa02ced5302.jpg.webp"
         }
       ],
       "days_left": 50
