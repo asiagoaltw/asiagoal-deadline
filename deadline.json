@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17 08:10:25",
+  "updated": "2026-09-17 13:49:16",
   "total": 326,
   "groups": [
     {
@@ -392,6 +392,19 @@
         }
       ],
       "days_left": 49
+    },
+    {
+      "date": "2026/11/23",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年7月 Design COCO 1/7 生如百戲難! LOVELIVE! 青鳥 高橋波爾卡 PVC",
+          "url": "https://www.asiagoal.com.tw/item/coco102",
+          "price": 3550,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aaa64f524981.jpg.webp"
+        }
+      ],
+      "days_left": 67
     }
   ]
 }
