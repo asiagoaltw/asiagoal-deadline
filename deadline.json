@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17 13:49:16",
-  "total": 326,
+  "updated": "2026-09-17 19:06:48",
+  "total": 331,
   "groups": [
     {
       "date": "2026/9/17",
@@ -215,13 +215,19 @@
     },
     {
       "date": "2026/10/7",
-      "count": 10,
+      "count": 13,
       "items": [
         {
           "title": "27年1月 1/27 機戰傭兵 CREST CR-C75U2 白兵戰Ver. 組裝模型",
           "url": "https://www.asiagoal.com.tw/item/VI099",
           "price": 1645,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a97a0af40cff.jpg.webp"
+        },
+        {
+          "title": "27年2月 1/10 創彩少女庭園 獸耳模擬人形小姐【泳裝】狐狸 組裝模型(JK112)",
+          "url": "https://www.asiagoal.com.tw/item/JK112",
+          "price": 1280,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aab9d5015285.jpg.webp"
         },
         {
           "title": "27年2月 GRANDE SCALE 大型比例 ARCANADEA 露蜜提雅ReACT-A 暗屬性 組裝模型",
@@ -266,10 +272,22 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5c6ae1013.jpg.webp"
         },
         {
+          "title": "27年3月 1/10 創彩少女庭園 獸耳模擬人形小姐【泳裝】夢幻風格 暮色貓 壽屋限定版 組裝模型(JK111)",
+          "url": "https://www.asiagoal.com.tw/item/JK111",
+          "price": 1280,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aab9ad94add0.jpg.webp"
+        },
+        {
           "title": "27年3月 女神裝置 M.S.G 慾望少女 護士 夜勤版 眼睛 DECAL SET 水貼",
           "url": "https://www.asiagoal.com.tw/item/KP876",
           "price": 240,
           "photo": "https://image.bvshop.tw/6240/product/6240_6aa0e1119dfdd.jpg.webp"
+        },
+        {
+          "title": "27年4月 1/10 創彩少女庭園 穿衣系列 藥師寺久遠 桃櫻高中 制服 組裝模型(JK104)",
+          "url": "https://www.asiagoal.com.tw/item/JK104",
+          "price": 1575,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aab9da56401b.jpg.webp"
         },
         {
           "title": "27年4月 心推工坊 女神異聞錄5 皇家版 Crow 完成品",
@@ -295,13 +313,19 @@
     },
     {
       "date": "2026/10/15",
-      "count": 4,
+      "count": 5,
       "items": [
         {
           "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 埃尼爾 組裝模型(AR016)",
           "url": "https://www.asiagoal.com.tw/item/AR016",
           "price": 1900,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a96a1c0bd9d9.jpg.webp"
+        },
+        {
+          "title": "27年4月 1/7 守護甜心! 日奈森亞夢 淨惡之筆 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV445",
+          "price": 4170,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aab9e03c6605.jpg.webp"
         },
         {
           "title": "27年4月 1/7 庫洛魔法使 木之本櫻 包圍 Siege 服裝 Ver. PVC",
@@ -405,6 +429,19 @@
         }
       ],
       "days_left": 67
+    },
+    {
+      "date": "2026/11/26",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年8月 1/4 勝利女神：妮姬 索達 閃亮兔女郎 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV342",
+          "price": 9390,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6aab9e56820d1.jpg.webp"
+        }
+      ],
+      "days_left": 70
     }
   ]
 }
