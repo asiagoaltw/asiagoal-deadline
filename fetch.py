@@ -1,5 +1,6 @@
 import json
 import re
+import time
 from collections import defaultdict
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -26,21 +27,70 @@ HEADERS = {
     "Accept": "application/json"
 }
 
+MAX_RETRIES = 3
+RETRY_DELAY = 5
+
 
 def request_page(page, limit):
     params = PARAMS.copy()
     params["page"] = page
     params["limit"] = limit
 
-    r = requests.get(BASE_URL, params=params, headers=HEADERS, timeout=30)
-    r.raise_for_status()
+    last_error = None
 
-    data = r.json()
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            print(
+                f"請求第 {page} 頁（limit={limit}），"
+                f"第 {attempt}/{MAX_RETRIES} 次..."
+            )
 
-    if data.get("result") != "success":
-        raise RuntimeError("API 回傳失敗")
+            r = requests.get(
+                BASE_URL,
+                params=params,
+                headers=HEADERS,
+                timeout=30
+            )
 
-    return data["response"][0]
+            print(f"HTTP Status: {r.status_code}")
+            print(f"Content-Type: {r.headers.get('Content-Type', '')}")
+
+            r.raise_for_status()
+
+            try:
+                data = r.json()
+            except requests.exceptions.JSONDecodeError:
+                print("⚠️ API 回應不是 JSON。")
+                print("回應內容前 300 字：")
+                print(r.text[:300])
+                raise
+
+            if data.get("result") != "success":
+                raise RuntimeError("API 回傳失敗")
+
+            response = data.get("response")
+
+            if not response:
+                raise RuntimeError("API response 為空")
+
+            return response[0]
+
+        except Exception as e:
+            last_error = e
+
+            print(
+                f"⚠️ 第 {attempt} 次請求失敗："
+                f"{type(e).__name__}: {e}"
+            )
+
+            if attempt < MAX_RETRIES:
+                delay = RETRY_DELAY * attempt
+                print(f"{delay} 秒後重試...")
+                time.sleep(delay)
+
+    raise RuntimeError(
+        f"第 {page} 頁在 {MAX_RETRIES} 次嘗試後仍然失敗"
+    ) from last_error
 
 
 def parse_date(text):
@@ -60,8 +110,22 @@ print("開始抓取最新預購商品...")
 try:
     request_page(1, 100)
     LIMIT = 100
-except Exception:
-    LIMIT = 16
+    print("limit=100 測試成功。")
+
+except Exception as e:
+    print(f"limit=100 測試失敗：{e}")
+    print("改用 limit=16。")
+
+    try:
+        request_page(1, 16)
+        LIMIT = 16
+        print("limit=16 測試成功。")
+
+    except Exception as e:
+        print(f"limit=16 也失敗：{e}")
+        print("❌ Asiagoal API 目前無法正常取得資料。")
+        print("為避免覆蓋現有資料，本次不會寫入 products.json 或 deadline.json。")
+        raise
 
 print(f"使用 limit = {LIMIT}")
 
@@ -123,7 +187,10 @@ for date in sorted(groups.keys(), key=parse_date):
     result.append({
         "date": date,
         "count": len(groups[date]),
-        "items": sorted(groups[date], key=lambda x: x["title"])
+        "items": sorted(
+            groups[date],
+            key=lambda x: x["title"]
+        )
     })
 
 # 使用台灣時間
@@ -131,7 +198,11 @@ taipei_now = datetime.now(ZoneInfo("Asia/Taipei"))
 today = taipei_now.date()
 
 for g in result:
-    target = datetime.strptime(g["date"], "%Y/%m/%d").date()
+    target = datetime.strptime(
+        g["date"],
+        "%Y/%m/%d"
+    ).date()
+
     g["days_left"] = (target - today).days
 
 deadline = {
@@ -141,7 +212,12 @@ deadline = {
 }
 
 with open("deadline.json", "w", encoding="utf-8") as f:
-    json.dump(deadline, f, ensure_ascii=False, indent=2)
+    json.dump(
+        deadline,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
 
 print("完成！")
 print("products.json 已建立")
