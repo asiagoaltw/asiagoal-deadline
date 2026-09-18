@@ -7,7 +7,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 
-BASE_URL = "https://www.asiagoal.com.tw/store/products"
+BASE_URL = "https://www.asiagoal.com.tw/api/store/products"
 
 PARAMS = {
     "type": "category",
