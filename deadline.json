@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24 15:17:55",
-  "total": 331,
+  "updated": "2026-09-24 21:18:41",
+  "total": 336,
   "groups": [
     {
       "date": "2026/9/22",
@@ -293,6 +293,37 @@
       "days_left": 21
     },
     {
+      "date": "2026/10/16",
+      "count": 4,
+      "items": [
+        {
+          "title": "27年3月 心推工坊 凍結地球 流鏑馬鐵男 完成品",
+          "url": "https://www.asiagoal.com.tw/item/GP037",
+          "price": 1665,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ab4db8ee6ab6.jpg.webp"
+        },
+        {
+          "title": "27年4月 Frame Arms Girl 機甲少女 輝鎚 甲 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV422",
+          "price": 4195,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ab4de39ef6cc.jpg.webp"
+        },
+        {
+          "title": "27年4月 心推工坊 凍結地球 乃木 蒼 完成品",
+          "url": "https://www.asiagoal.com.tw/item/GP041",
+          "price": 1795,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ab4dcc576df3.jpg.webp"
+        },
+        {
+          "title": "27年4月 心推工坊 遊戲王 怪獸之決鬥 神鷹女郎 完成品",
+          "url": "https://www.asiagoal.com.tw/item/GP008",
+          "price": 1795,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ab4d84e7b73a.jpg.webp"
+        }
+      ],
+      "days_left": 22
+    },
+    {
       "date": "2026/10/19",
       "count": 1,
       "items": [
@@ -304,6 +335,19 @@
         }
       ],
       "days_left": 25
+    },
+    {
+      "date": "2026/10/21",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年3月 壽屋 × Kojima Productions小島工作室  LUDENS 組裝模型 (KP786)",
+          "url": "https://www.asiagoal.com.tw/item/KP786",
+          "price": 1850,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ab4e1b5c5c32.jpg.webp"
+        }
+      ],
+      "days_left": 27
     },
     {
       "date": "2026/10/29",
