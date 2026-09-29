@@ -1,81 +1,7 @@
 {
-  "updated": "2026-09-29 08:13:26",
-  "total": 336,
+  "updated": "2026-09-29 12:05:10",
+  "total": 339,
   "groups": [
-    {
-      "date": "2026/9/22",
-      "count": 1,
-      "items": [
-        {
-          "title": "27年3月 1/8 ARTFX J 寶可夢 黑白 鬥也&比克提尼 PVC",
-          "url": "https://www.asiagoal.com.tw/item/PV302",
-          "price": 2904,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a86ca76b8169.jpg.webp"
-        }
-      ],
-      "days_left": -7
-    },
-    {
-      "date": "2026/9/23",
-      "count": 9,
-      "items": [
-        {
-          "title": "27年1月 Megami Device 女神裝置 尤格拉希斯 斯庫爾 神射手 暴風 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/KP869",
-          "price": 1265,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a1c2c3708.jpg.webp"
-        },
-        {
-          "title": "27年2月 1/7 賽馬娘 帝王光輝 決勝服 PVC",
-          "url": "https://www.asiagoal.com.tw/item/PV238",
-          "price": 4315,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a15ba7180.jpg.webp"
-        },
-        {
-          "title": "27年2月 1/8 英雄傳說 軌跡系列 空之軌跡 艾絲蒂爾·布萊特 PVC",
-          "url": "https://www.asiagoal.com.tw/item/PV509",
-          "price": 3905,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5f8f625bd.jpg.webp"
-        },
-        {
-          "title": "27年2月 ARCANADEA 阿爾卡納蒂亞 巴尼爾 組裝模型(AR015)",
-          "url": "https://www.asiagoal.com.tw/item/AR015",
-          "price": 1900,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a94f5fad796c.jpg.webp"
-        },
-        {
-          "title": "27年2月 Frame Arms Girl 機甲少女 輝鎚·乙 狙擊仕樣 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/FG170",
-          "price": 1570,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a992d5a098df.jpg.webp"
-        },
-        {
-          "title": "27年2月 女神裝置M.S.G 尤格拉希斯 斯庫爾 神射手 暴風 EYE DECAL SET 水貼",
-          "url": "https://www.asiagoal.com.tw/item/KP874",
-          "price": 240,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a20e26043.jpg.webp"
-        },
-        {
-          "title": "27年2月 無限邂逅Megalo Mari 模擬人形 Emulator#3 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/CX041",
-          "price": 1460,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a992c39b2949.jpg.webp"
-        },
-        {
-          "title": "27年3月 心推工坊  槍神 TRIGUN STARGAZE  密利歐 奈布茲 完成品",
-          "url": "https://www.asiagoal.com.tw/item/GP031",
-          "price": 1700,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a0017840f.jpg.webp"
-        },
-        {
-          "title": "27年3月 無限邂逅Megalo Mari 殘骸獵人Wreckage Hunter 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/CX052",
-          "price": 2065,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a992ca73a971.jpg.webp"
-        }
-      ],
-      "days_left": -6
-    },
     {
       "date": "2026/9/30",
       "count": 1,
@@ -257,13 +183,19 @@
     },
     {
       "date": "2026/10/15",
-      "count": 5,
+      "count": 7,
       "items": [
         {
           "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 埃尼爾 組裝模型(AR016)",
           "url": "https://www.asiagoal.com.tw/item/AR016",
           "price": 1900,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a96a1c0bd9d9.jpg.webp"
+        },
+        {
+          "title": "27年3月 Megami Device 女神裝置 PUNI☆MOFU 麟麟 組裝模型(KP859)",
+          "url": "https://www.asiagoal.com.tw/item/KP859",
+          "price": 1120,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abb172deeb83.jpg.webp"
         },
         {
           "title": "27年4月 1/7 守護甜心! 日奈森亞夢 淨惡之筆 PVC",
@@ -284,6 +216,12 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a97a0f3a6296.jpg.webp"
         },
         {
+          "title": "27年4月 女神裝置M.S.G PUNI☆MOFU 麟麟 EYE DECAL SET 水貼 (KP899)",
+          "url": "https://www.asiagoal.com.tw/item/KP899",
+          "price": 240,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abb17d5ca0e0.jpg.webp"
+        },
+        {
           "title": "27年5月 1/8 偶像大師百萬人演唱會 最上静香-The Animation- ASOBI STORE＆壽屋限定品 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV413",
           "price": 4825,
@@ -294,7 +232,7 @@
     },
     {
       "date": "2026/10/16",
-      "count": 4,
+      "count": 5,
       "items": [
         {
           "title": "27年3月 心推工坊 凍結地球 流鏑馬鐵男 完成品",
@@ -319,6 +257,12 @@
           "url": "https://www.asiagoal.com.tw/item/GP008",
           "price": 1795,
           "photo": "https://image.bvshop.tw/6240/product/6240_6ab4d84e7b73a.jpg.webp"
+        },
+        {
+          "title": "27年5月D-STYLE 裝甲騎兵 夜盜犬 組裝模型(KP357R)",
+          "url": "https://www.asiagoal.com.tw/item/KP357R",
+          "price": 935,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ab4e332c8d77.jpg.webp"
         }
       ],
       "days_left": 17
