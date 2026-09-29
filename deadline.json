@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29 14:37:05",
-  "total": 339,
+  "updated": "2026-09-29 21:47:38",
+  "total": 344,
   "groups": [
     {
       "date": "2026/9/30",
@@ -85,7 +85,7 @@
     },
     {
       "date": "2026/10/7",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "title": "27年1月 1/27 機戰傭兵 CREST CR-C75U2 白兵戰Ver. 組裝模型",
@@ -152,6 +152,12 @@
           "url": "https://www.asiagoal.com.tw/item/KP876",
           "price": 240,
           "photo": "https://image.bvshop.tw/6240/product/6240_6aa0e1119dfdd.jpg.webp"
+        },
+        {
+          "title": "27年3月 無限邂逅Megalo Mari AIRLY 艾莉爾 組裝模型(CX032)",
+          "url": "https://www.asiagoal.com.tw/item/CX032",
+          "price": 1265,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abb894ce9eef.jpg.webp"
         },
         {
           "title": "27年4月 1/10 創彩少女庭園 穿衣系列 藥師寺久遠 桃櫻高中 制服 組裝模型(JK104)",
@@ -281,6 +287,19 @@
       "days_left": 20
     },
     {
+      "date": "2026/10/20",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年4月 無限邂逅Megalo Mari 模擬人形 Emulator#1A 組裝模型(CX054)",
+          "url": "https://www.asiagoal.com.tw/item/KO09490",
+          "price": 1395,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abb899c164a2.jpg.webp"
+        }
+      ],
+      "days_left": 21
+    },
+    {
       "date": "2026/10/21",
       "count": 1,
       "items": [
@@ -350,6 +369,25 @@
       "days_left": 37
     },
     {
+      "date": "2026/11/19",
+      "count": 2,
+      "items": [
+        {
+          "title": "27年5月 心推工坊 進擊的巨人 里維 阿卡曼 The Final Season ver. 完成品",
+          "url": "https://www.asiagoal.com.tw/item/GP038",
+          "price": 2085,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abb8a0029b91.jpg.webp"
+        },
+        {
+          "title": "27年6月 心推工坊 進擊的巨人 阿爾敏 亞魯雷特 The Final Season ver. 完成品",
+          "url": "https://www.asiagoal.com.tw/item/GP042",
+          "price": 2085,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abb8a991c5cd.jpg.webp"
+        }
+      ],
+      "days_left": 51
+    },
+    {
       "date": "2026/11/23",
       "count": 1,
       "items": [
@@ -374,6 +412,19 @@
         }
       ],
       "days_left": 58
+    },
+    {
+      "date": "2027/1/21",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年7月 心推工坊 進擊的巨人 莎夏 布勞斯 The Final Season ver. 完成品",
+          "url": "https://www.asiagoal.com.tw/item/GP043",
+          "price": 2085,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abb8adda243d.jpg.webp"
+        }
+      ],
+      "days_left": 114
     }
   ]
 }
