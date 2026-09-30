@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30 07:28:26",
-  "total": 344,
+  "updated": "2026-09-30 12:20:44",
+  "total": 345,
   "groups": [
     {
       "date": "2026/9/30",
@@ -85,7 +85,7 @@
     },
     {
       "date": "2026/10/7",
-      "count": 14,
+      "count": 15,
       "items": [
         {
           "title": "27年1月 1/27 機戰傭兵 CREST CR-C75U2 白兵戰Ver. 組裝模型",
@@ -170,6 +170,12 @@
           "url": "https://www.asiagoal.com.tw/item/GP029",
           "price": 2160,
           "photo": "https://image.bvshop.tw/6240/product/6240_6a62f8e9b6c2a.jpg.webp"
+        },
+        {
+          "title": "27年5月 異域傳說 KOS-MOS Ver.1 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP277R",
+          "price": 1470,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abc83f6b1635.jpg.webp"
         }
       ],
       "days_left": 7
