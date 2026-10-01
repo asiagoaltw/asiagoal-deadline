@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01 09:05:45",
-  "total": 356,
+  "updated": "2026-10-01 16:24:46",
+  "total": 357,
   "groups": [
     {
       "date": "2026/9/30",
@@ -8,7 +8,7 @@
       "items": [
         {
           "title": "27年1月 FINAL FANTASY 太空戰士 40週年紀念收藏 第1彈 (每盒10入)",
-          "url": "https://www.asiagoal.com.tw/item/4988601297370",
+          "url": "https://www.asiagoal.com.tw/item/62406abe01c73c4f8",
           "price": 1205,
           "photo": "https://image.bvshop.tw/6240/product/6240_6aaa5c08d0df1.jpg.webp"
         }
@@ -421,6 +421,19 @@
         }
       ],
       "days_left": 35
+    },
+    {
+      "date": "2026/11/8",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年10月 Design COCO 1/7 Hololive EN 一伊那爾栖 Ina AXGRIT PVC",
+          "url": "https://www.asiagoal.com.tw/item/COCO100",
+          "price": 6900,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abcdb85596b9.jpg.webp"
+        }
+      ],
+      "days_left": 38
     },
     {
       "date": "2026/11/18",
