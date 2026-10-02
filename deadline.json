@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02 09:19:17",
-  "total": 358,
+  "updated": "2026-10-02 16:00:06",
+  "total": 362,
   "groups": [
     {
       "date": "2026/9/30",
@@ -14,61 +14,6 @@
         }
       ],
       "days_left": -2
-    },
-    {
-      "date": "2026/10/1",
-      "count": 8,
-      "items": [
-        {
-          "title": "27年1月 女神裝置 M.S.G 09 手部零件套組 膚色E",
-          "url": "https://www.asiagoal.com.tw/item/KP911",
-          "price": 280,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6aa0e0ca5e48f.jpg.webp"
-        },
-        {
-          "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 XenoAlma系列 歐拉吉 帕沃雷亞 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/KO06433",
-          "price": 645,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5bde7b973.jpg.webp"
-        },
-        {
-          "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 結雲 First Engage Ver. 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/AA003",
-          "price": 960,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5b78422eb.jpg.webp"
-        },
-        {
-          "title": "27年5月 1/100 新世紀福音戰士劇場版  要人輸送用司令官專用垂直離著陸機 組裝模型(再販)",
-          "url": "https://www.asiagoal.com.tw/item/KP182R",
-          "price": 825,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a852e417d5ef.jpg.webp"
-        },
-        {
-          "title": "27年5月 Frame Arms Girl 機甲少女 突伽 II  Durga- II   組裝模型(FG086R)",
-          "url": "https://www.asiagoal.com.tw/item/FG086R",
-          "price": 1795,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a9fd9f616b44.jpg.webp"
-        },
-        {
-          "title": "27年5月 Megami Device 女神裝置 B1R-M 軀幹套裝 膚色A 組裝模型(KP646)",
-          "url": "https://www.asiagoal.com.tw/item/KP646",
-          "price": 895,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a852ead75111.jpg.webp"
-        },
-        {
-          "title": "27年5月 無限邂逅Megalo Mari 警官 VALIANT  組裝模型 再販(CX021)",
-          "url": "https://www.asiagoal.com.tw/item/CX021",
-          "price": 1585,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6aaa027413ebb.jpg.webp"
-        },
-        {
-          "title": "27年6月 壽屋賞 ARCANADEA 阿爾卡納蒂亞 第二彈",
-          "url": "https://www.asiagoal.com.tw/item/GV229",
-          "price": 22800,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a9f88ffd14a0.jpg.webp"
-        }
-      ],
-      "days_left": -1
     },
     {
       "date": "2026/10/5",
@@ -195,8 +140,26 @@
     },
     {
       "date": "2026/10/15",
-      "count": 7,
+      "count": 10,
       "items": [
+        {
+          "title": "26年12月 ARCANADEA 阿爾卡納蒂亞 結雲 獸人型 組裝模型(AR003R)",
+          "url": "https://www.asiagoal.com.tw/item/AR003R",
+          "price": 1760,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abf5c70bce8a.jpg.webp"
+        },
+        {
+          "title": "26年12月 ARCANADEA 露蜜提雅LUMITEA 天使型 組裝模型(AR001R)",
+          "url": "https://www.asiagoal.com.tw/item/AR001R",
+          "price": 1310,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abf5c2b1fa98.jpg.webp"
+        },
+        {
+          "title": "27年2月 1/72 機戰傭兵CREST CR-C75U2 白兵戰Ver. 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/VI105",
+          "price": 1675,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abf5b9218df5.jpg.webp"
+        },
         {
           "title": "27年3月 ARCANADEA 阿爾卡納蒂亞 埃尼爾 組裝模型(AR016)",
           "url": "https://www.asiagoal.com.tw/item/AR016",
@@ -281,8 +244,14 @@
     },
     {
       "date": "2026/10/19",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "27年6月 Megami Device 女神裝置 PUNI☆MOFU 賽車狼 with 本田 Z50J Gorilla 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP880",
+          "price": 1725,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6abf5be082490.jpg.webp"
+        },
         {
           "title": "27年8月 DesignCOCO 1/7 初音未來 魔法未來 2026 PVC",
           "url": "https://www.asiagoal.com.tw/item/coco99",
