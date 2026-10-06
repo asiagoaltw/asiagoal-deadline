@@ -1,20 +1,7 @@
 {
-  "updated": "2026-10-06 14:07:33",
+  "updated": "2026-10-06 21:58:07",
   "total": 363,
   "groups": [
-    {
-      "date": "2026/10/5",
-      "count": 1,
-      "items": [
-        {
-          "title": "27年7月 DesignCOCO 1/7 Re 從零開始的異世界生活 愛蜜莉雅 婚紗ver",
-          "url": "https://www.asiagoal.com.tw/item/coco101",
-          "price": 5500,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a841b2f73aa4.jpg.webp"
-        }
-      ],
-      "days_left": -1
-    },
     {
       "date": "2026/10/7",
       "count": 15,
@@ -127,7 +114,7 @@
     },
     {
       "date": "2026/10/15",
-      "count": 10,
+      "count": 11,
       "items": [
         {
           "title": "26年12月 ARCANADEA 阿爾卡納蒂亞 結雲 獸人型 組裝模型(AR003R)",
@@ -140,6 +127,12 @@
           "url": "https://www.asiagoal.com.tw/item/AR001R",
           "price": 1310,
           "photo": "https://image.bvshop.tw/6240/product/6240_6abf5c2b1fa98.jpg.webp"
+        },
+        {
+          "title": "26年12月ARCANADEA  阿爾卡納蒂亞 霞羽瑶CHARMED 天使型 Dears系列 組裝模型(AR008)",
+          "url": "https://www.asiagoal.com.tw/item/ar008",
+          "price": 1595,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a2c64a10b3e1.jpg.webp"
         },
         {
           "title": "27年2月 1/72 機戰傭兵CREST CR-C75U2 白兵戰Ver. 組裝模型",
