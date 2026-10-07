@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07 07:36:57",
-  "total": 363,
+  "updated": "2026-10-07 12:41:19",
+  "total": 369,
   "groups": [
     {
       "date": "2026/10/7",
@@ -224,8 +224,14 @@
     },
     {
       "date": "2026/10/19",
-      "count": 2,
+      "count": 3,
       "items": [
+        {
+          "title": "27年2月 MSG武裝零件 MH78 重武器組件 78 定製核心 刀刃之翼",
+          "url": "https://www.asiagoal.com.tw/item/MH78",
+          "price": 515,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac5c8b9a4a2d.jpg.webp"
+        },
         {
           "title": "27年6月 Megami Device 女神裝置 PUNI☆MOFU 賽車狼 with 本田 Z50J Gorilla 組裝模型",
           "url": "https://www.asiagoal.com.tw/item/KP880",
@@ -236,7 +242,7 @@
           "title": "27年8月 DesignCOCO 1/7 初音未來 魔法未來 2026 PVC",
           "url": "https://www.asiagoal.com.tw/item/coco99",
           "price": 6480,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a62fd2360b76.jpg.webp"
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac5a0674e8d0.jpg.webp"
         }
       ],
       "days_left": 12
@@ -269,7 +275,7 @@
     },
     {
       "date": "2026/10/29",
-      "count": 10,
+      "count": 13,
       "items": [
         {
           "title": "27年3月 心推工坊Mini 槍神 TRIGUN STARGAZE 威席 史坦畢特 完成品",
@@ -312,6 +318,24 @@
           "url": "https://www.asiagoal.com.tw/item/PV292",
           "price": 5075,
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcad0eb22cb.jpg.webp"
+        },
+        {
+          "title": "27年4月 無限邂逅Megalo Mari 變形組件 Criminal Buster 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/CX051",
+          "price": 475,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac5c95d42045.jpg.webp"
+        },
+        {
+          "title": "27年4月 無限邂逅Megalo Mari 變形組件 Phlegethon 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/CX063",
+          "price": 588,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac5c997d778d.jpg.webp"
+        },
+        {
+          "title": "27年4月 無限邂逅Megalo Mari 赤菱 SANA 戰鬥裝束 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/CX037",
+          "price": 1755,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac5c8fbbf03e.jpg.webp"
         },
         {
           "title": "27年5月 1/4 勝利女神：妮姬 阿妮斯:閃耀夏日 PVC",
@@ -385,6 +409,19 @@
       "days_left": 32
     },
     {
+      "date": "2026/11/12",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年5月 1/7 魔法騎士雷阿斯 獅堂光 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV366",
+          "price": 4785,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac5c9e71c8d2.jpg.webp"
+        }
+      ],
+      "days_left": 36
+    },
+    {
       "date": "2026/11/18",
       "count": 1,
       "items": [
@@ -399,8 +436,14 @@
     },
     {
       "date": "2026/11/19",
-      "count": 2,
+      "count": 3,
       "items": [
+        {
+          "title": "27年4月 銀河特急 Milky☆Subway 來栖真希菜 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP882",
+          "price": 1705,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac5ca2a49e6c.jpg.webp"
+        },
         {
           "title": "27年5月 心推工坊 進擊的巨人 里維 阿卡曼 The Final Season ver. 完成品",
           "url": "https://www.asiagoal.com.tw/item/GP038",
