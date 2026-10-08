@@ -1,95 +1,11 @@
 {
-  "updated": "2026-10-08 12:51:40",
-  "total": 361,
+  "updated": "2026-10-08 19:48:38",
+  "total": 369,
   "groups": [
     {
       "date": "2026/10/7",
-      "count": 15,
+      "count": 1,
       "items": [
-        {
-          "title": "27年1月 1/27 機戰傭兵 CREST CR-C75U2 白兵戰Ver. 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/VI099",
-          "price": 1645,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a0af40cff.jpg.webp"
-        },
-        {
-          "title": "27年2月 1/10 創彩少女庭園 獸耳模擬人形小姐【泳裝】狐狸 組裝模型(JK112)",
-          "url": "https://www.asiagoal.com.tw/item/JK112",
-          "price": 1280,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6aab9d5015285.jpg.webp"
-        },
-        {
-          "title": "27年2月 GRANDE SCALE 大型比例 ARCANADEA 露蜜提雅ReACT-A 暗屬性 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/AG003",
-          "price": 2245,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a9fd7f44f219.jpg.webp"
-        },
-        {
-          "title": "27年2月 MSG武裝零件 MH80 重武器組件 80 EVIL OX 邪惡巨斧 灰色Ver. 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/MH80",
-          "price": 325,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a97a056548d0.jpg.webp"
-        },
-        {
-          "title": "27年2月 Megami Device 女神裝置 慾望少女 護士 夜勤版 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/KP870",
-          "price": 1265,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6aa0de71b3e70.jpg.webp"
-        },
-        {
-          "title": "27年2月 心推工坊Mini 女神異聞錄3 主人公 完成品",
-          "url": "https://www.asiagoal.com.tw/item/QA011",
-          "price": 330,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5ddf2e485.jpg.webp"
-        },
-        {
-          "title": "27年2月 心推工坊Mini 女神異聞錄5 皇家版 Joker 完成品",
-          "url": "https://www.asiagoal.com.tw/item/QA012",
-          "price": 330,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5e2ec2fb1.jpg.webp"
-        },
-        {
-          "title": "27年2月 心推工坊Mini 藥師少女的獨語 貓貓 園遊會 Ver. 完成品",
-          "url": "https://www.asiagoal.com.tw/item/QA020",
-          "price": 330,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5e8521045.jpg.webp"
-        },
-        {
-          "title": "27年2月 心推工坊Mini 藥師少女的獨語 貓貓 完成品",
-          "url": "https://www.asiagoal.com.tw/item/QA010",
-          "price": 330,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a8d5c6ae1013.jpg.webp"
-        },
-        {
-          "title": "27年3月 1/10 創彩少女庭園 獸耳模擬人形小姐【泳裝】夢幻風格 暮色貓 壽屋限定版 組裝模型(JK111)",
-          "url": "https://www.asiagoal.com.tw/item/JK111",
-          "price": 1280,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6aab9ad94add0.jpg.webp"
-        },
-        {
-          "title": "27年3月 女神裝置 M.S.G 慾望少女 護士 夜勤版 眼睛 DECAL SET 水貼",
-          "url": "https://www.asiagoal.com.tw/item/KP876",
-          "price": 240,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6aa0e1119dfdd.jpg.webp"
-        },
-        {
-          "title": "27年3月 無限邂逅Megalo Mari AIRLY 艾莉爾 組裝模型(CX032)",
-          "url": "https://www.asiagoal.com.tw/item/CX032",
-          "price": 1265,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6abb894ce9eef.jpg.webp"
-        },
-        {
-          "title": "27年4月 1/10 創彩少女庭園 穿衣系列 藥師寺久遠 桃櫻高中 制服 組裝模型(JK104)",
-          "url": "https://www.asiagoal.com.tw/item/JK104",
-          "price": 1575,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6aab9da56401b.jpg.webp"
-        },
-        {
-          "title": "27年4月 心推工坊 女神異聞錄5 皇家版 Crow 完成品",
-          "url": "https://www.asiagoal.com.tw/item/GP029",
-          "price": 2160,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6a62f8e9b6c2a.jpg.webp"
-        },
         {
           "title": "27年5月 異域傳說 KOS-MOS Ver.1 組裝模型",
           "url": "https://www.asiagoal.com.tw/item/KP277R",
@@ -98,6 +14,25 @@
         }
       ],
       "days_left": -1
+    },
+    {
+      "date": "2026/10/13",
+      "count": 2,
+      "items": [
+        {
+          "title": "27年1月 FINAL FANTASY X 尤娜 婚紗版 4宮格卡冊",
+          "url": "https://www.asiagoal.com.tw/item/4988601286596",
+          "price": 1060,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac7686e11546.jpg.webp"
+        },
+        {
+          "title": "27年1月 FINAL FANTASY X 尤娜 婚紗版 9宮格卡冊",
+          "url": "https://www.asiagoal.com.tw/item/4988601286565",
+          "price": 1700,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac7679fe4f70.jpg.webp"
+        }
+      ],
+      "days_left": 5
     },
     {
       "date": "2026/10/14",
@@ -274,9 +209,28 @@
       "days_left": 13
     },
     {
-      "date": "2026/10/29",
-      "count": 13,
+      "date": "2026/10/22",
+      "count": 1,
       "items": [
+        {
+          "title": "27年2月 メーカー スクウェア・エニックス 素材 本体素材：ＰＵ 芯材：厚紙 リフィール：ポリプロピレンフィルム ファスナー引き手：亜鉛 サイズ 約W258mm×D33mm×H188mm",
+          "url": "https://www.asiagoal.com.tw/item/4988601276429",
+          "price": 2000,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac768cf58627.jpg.webp"
+        }
+      ],
+      "days_left": 14
+    },
+    {
+      "date": "2026/10/29",
+      "count": 16,
+      "items": [
+        {
+          "title": "27年2月 ZOIDS 洛伊德 D-Style 死亡索拉 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP923",
+          "price": 650,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac7576233ea5.jpg.webp"
+        },
         {
           "title": "27年3月 心推工坊Mini 槍神 TRIGUN STARGAZE 威席 史坦畢特 完成品",
           "url": "https://www.asiagoal.com.tw/item/QA013",
@@ -320,6 +274,12 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcad0eb22cb.jpg.webp"
         },
         {
+          "title": "27年4月 勇者凱薩 巨大艾克斯凱撒 FULL EDITION 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP885",
+          "price": 1620,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac7571636e7c.jpg.webp"
+        },
+        {
           "title": "27年4月 無限邂逅Megalo Mari 變形組件 Criminal Buster 組裝模型",
           "url": "https://www.asiagoal.com.tw/item/CX051",
           "price": 475,
@@ -350,6 +310,12 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6a9fd8d31182b.jpg.webp"
         },
         {
+          "title": "27年5月 Megami Device 女神裝置 BUSTER DOLL 坦克  組裝模型(KP684R)",
+          "url": "https://www.asiagoal.com.tw/item/KP684R",
+          "price": 1180,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac736e18e9a3.jpg.webp"
+        },
+        {
           "title": "27年6月 Megami Device 女神裝置 B1R-M 軀幹套裝 膚色B 組裝模型",
           "url": "https://www.asiagoal.com.tw/item/KP832",
           "price": 895,
@@ -360,7 +326,7 @@
     },
     {
       "date": "2026/11/5",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "27年4月 1/8 無盡傳奇 蜜拉・麥斯威爾 PVC",
@@ -391,6 +357,12 @@
           "url": "https://www.asiagoal.com.tw/item/PV376",
           "price": 4200,
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcacaed88d2.jpg.webp"
+        },
+        {
+          "title": "27年5月 Frame Arms Girl 機甲少女 突伽Ⅰ 黑暗女王 Ver. PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV424",
+          "price": 4235,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac757aaa2aac.jpg.webp"
         }
       ],
       "days_left": 28
