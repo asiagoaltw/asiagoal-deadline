@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08 07:27:56",
-  "total": 369,
+  "updated": "2026-10-08 12:51:40",
+  "total": 361,
   "groups": [
     {
       "date": "2026/10/7",
@@ -510,6 +510,19 @@
         }
       ],
       "days_left": 60
+    },
+    {
+      "date": "2026/12/15",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年9月 Design COCO 1/7 出包王女 20週年紀念 茉茉 PVC",
+          "url": "https://www.asiagoal.com.tw/item/4570210121582",
+          "price": 3990,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ac7192fd7a64.jpg.webp"
+        }
+      ],
+      "days_left": 68
     },
     {
       "date": "2027/1/21",
