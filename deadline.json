@@ -1,39 +1,7 @@
 {
-  "updated": "2026-10-14 09:37:59",
-  "total": 366,
+  "updated": "2026-10-14 15:10:46",
+  "total": 370,
   "groups": [
-    {
-      "date": "2026/10/7",
-      "count": 1,
-      "items": [
-        {
-          "title": "27年5月 異域傳說 KOS-MOS Ver.1 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/KP277R",
-          "price": 1470,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6abc83f6b1635.jpg.webp"
-        }
-      ],
-      "days_left": -7
-    },
-    {
-      "date": "2026/10/13",
-      "count": 2,
-      "items": [
-        {
-          "title": "27年1月 FINAL FANTASY X 尤娜 婚紗版 4宮格卡冊",
-          "url": "https://www.asiagoal.com.tw/item/4988601286596",
-          "price": 1060,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6ac7686e11546.jpg.webp"
-        },
-        {
-          "title": "27年1月 FINAL FANTASY X 尤娜 婚紗版 9宮格卡冊",
-          "url": "https://www.asiagoal.com.tw/item/4988601286565",
-          "price": 1700,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6ac7679fe4f70.jpg.webp"
-        }
-      ],
-      "days_left": -1
-    },
     {
       "date": "2026/10/14",
       "count": 1,
@@ -49,7 +17,7 @@
     },
     {
       "date": "2026/10/15",
-      "count": 11,
+      "count": 13,
       "items": [
         {
           "title": "26年12月 ARCANADEA 阿爾卡納蒂亞 結雲 獸人型 組裝模型(AR003R)",
@@ -86,6 +54,18 @@
           "url": "https://www.asiagoal.com.tw/item/KP859",
           "price": 1120,
           "photo": "https://image.bvshop.tw/6240/product/6240_6abb172deeb83.jpg.webp"
+        },
+        {
+          "title": "27年3月 POP UP PARADE 凱寧 L size",
+          "url": "https://www.asiagoal.com.tw/item/4988601277174",
+          "price": 2950,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6acef95963e44.jpg.webp"
+        },
+        {
+          "title": "27年3月 POP UP PARADE 尼爾：自動人形 寄葉2號B型 L size",
+          "url": "https://www.asiagoal.com.tw/item/4988601277181",
+          "price": 2950,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6acef98d3329f.jpg.webp"
         },
         {
           "title": "27年4月 1/7 守護甜心! 日奈森亞夢 淨惡之筆 PVC",
@@ -184,13 +164,19 @@
     },
     {
       "date": "2026/10/20",
-      "count": 1,
+      "count": 2,
       "items": [
         {
           "title": "27年4月 無限邂逅Megalo Mari 模擬人形 Emulator#1A 組裝模型(CX054)",
           "url": "https://www.asiagoal.com.tw/item/KO09490",
           "price": 1395,
           "photo": "https://image.bvshop.tw/6240/product/6240_6abb899c164a2.jpg.webp"
+        },
+        {
+          "title": "27年Q2 NECA 德州電鋸殺人狂 從頭開始 7 吋 屠宰場盒裝套組",
+          "url": "https://www.asiagoal.com.tw/item/NE41589-01",
+          "price": 1880,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6acee82ec9811.jpg.webp"
         }
       ],
       "days_left": 6
@@ -388,8 +374,14 @@
     },
     {
       "date": "2026/11/12",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "27年3月 ZOIDS 洛伊德 D-Style 格鬥金剛 附屬透明零件 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP922",
+          "price": 650,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6acef85983264.jpg.webp"
+        },
         {
           "title": "27年5月 1/7 魔法騎士雷阿斯 獅堂光 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV366",
@@ -414,13 +406,19 @@
     },
     {
       "date": "2026/11/19",
-      "count": 3,
+      "count": 4,
       "items": [
         {
           "title": "27年4月 銀河特急 Milky☆Subway 來栖真希菜 組裝模型",
           "url": "https://www.asiagoal.com.tw/item/KP882",
           "price": 1705,
           "photo": "https://image.bvshop.tw/6240/product/6240_6ac5ca2a49e6c.jpg.webp"
+        },
+        {
+          "title": "27年5月 1/1 用【循環利息】強制收回借出的魔力 艾姆菲 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV442",
+          "price": 4235,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6acef89d02ecf.jpg.webp"
         },
         {
           "title": "27年5月 心推工坊 進擊的巨人 里維 阿卡曼 The Final Season ver. 完成品",
