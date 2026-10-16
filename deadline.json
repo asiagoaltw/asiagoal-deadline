@@ -1,26 +1,7 @@
 {
-  "updated": "2026-10-16 13:31:13",
-  "total": 356,
+  "updated": "2026-10-16 18:51:12",
+  "total": 374,
   "groups": [
-    {
-      "date": "2026/10/15",
-      "count": 2,
-      "items": [
-        {
-          "title": "27年3月 POP UP PARADE 凱寧 L size",
-          "url": "https://www.asiagoal.com.tw/item/4988601277174",
-          "price": 2950,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6acef95963e44.jpg.webp"
-        },
-        {
-          "title": "27年3月 POP UP PARADE 尼爾：自動人形 寄葉2號B型 L size",
-          "url": "https://www.asiagoal.com.tw/item/4988601277181",
-          "price": 2950,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6acef98d3329f.jpg.webp"
-        }
-      ],
-      "days_left": -1
-    },
     {
       "date": "2026/10/19",
       "count": 3,
@@ -202,8 +183,14 @@
     },
     {
       "date": "2026/11/5",
-      "count": 6,
+      "count": 12,
       "items": [
+        {
+          "title": "27年3月 1/72 機戰傭兵 幻影 MIRAGE C02-URANUS 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/VI100",
+          "price": 1705,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ad1bf0a2719d.jpg.webp"
+        },
         {
           "title": "27年4月 1/8 無盡傳奇 蜜拉・麥斯威爾 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV387",
@@ -239,6 +226,36 @@
           "url": "https://www.asiagoal.com.tw/item/PV424",
           "price": 4235,
           "photo": "https://image.bvshop.tw/6240/product/6240_6ac757aaa2aac.jpg.webp"
+        },
+        {
+          "title": "27年6月 1/10 MEGA MAN 布魯斯 重新包裝版 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP472X",
+          "price": 855,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ad1c0c85540d.jpg.webp"
+        },
+        {
+          "title": "27年6月 1/10 MEGA MAN 洛克人 重新包裝版 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP471X",
+          "price": 855,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ad1c09328f99.jpg.webp"
+        },
+        {
+          "title": "27年6月 1/24 Hexa Gear 六角機牙 雷神V 組裝模型(HG078R)",
+          "url": "https://www.asiagoal.com.tw/item/HG078R",
+          "price": 1620,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ad1bf68642b0.jpg.webp"
+        },
+        {
+          "title": "27年6月 1/3000 銀河英雄傳說 自由惑星同盟軍 第13戰艦 休伯利安 組裝模型(KP771)",
+          "url": "https://www.asiagoal.com.tw/item/kp771-legend-of-the-galactic-heroes-free-planets-alliance-13th-fleet-flagship-hyperion-13000-plastic-model-kit",
+          "price": 1645,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6a2cad609dac7.jpg.webp"
+        },
+        {
+          "title": "27年6月 1/400 新世紀福音戰士劇場版 13號機 第3+型態 模型(KP358R)",
+          "url": "https://www.asiagoal.com.tw/item/KP358R",
+          "price": 1885,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ad1c0400be31.jpg.webp"
         }
       ],
       "days_left": 20
