@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20 11:44:20",
-  "total": 374,
+  "updated": "2026-10-20 17:12:03",
+  "total": 376,
   "groups": [
     {
       "date": "2026/10/20",
@@ -282,7 +282,7 @@
     },
     {
       "date": "2026/11/19",
-      "count": 4,
+      "count": 5,
       "items": [
         {
           "title": "27年4月 銀河特急 Milky☆Subway 來栖真希菜 組裝模型",
@@ -295,6 +295,12 @@
           "url": "https://www.asiagoal.com.tw/item/PV442",
           "price": 4235,
           "photo": "https://image.bvshop.tw/6240/product/6240_6acef89d02ecf.jpg.webp"
+        },
+        {
+          "title": "27年5月 1/7 HORROR美少女 美少女 貞子 PVC 附恐怖臉",
+          "url": "https://www.asiagoal.com.tw/item/SV405",
+          "price": 3905,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ad70838ee8cb.png.webp"
         },
         {
           "title": "27年5月 心推工坊 進擊的巨人 里維 阿卡曼 The Final Season ver. 完成品",
@@ -349,6 +355,19 @@
         }
       ],
       "days_left": 43
+    },
+    {
+      "date": "2026/12/3",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年9月 1/7 優米雅的鍊金工房 ～追憶之鍊金術士與幻創之地～ 優米雅 利斯菲爾德 晴雨Ver.",
+          "url": "https://www.asiagoal.com.tw/item/PV335",
+          "price": 4690,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ad7088868878.jpg.webp"
+        }
+      ],
+      "days_left": 44
     },
     {
       "date": "2026/12/7",
