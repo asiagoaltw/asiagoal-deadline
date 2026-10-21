@@ -111,7 +111,7 @@
   },
   {
     "title": "27年Q2 NECA 德州電鋸殺人狂 從頭開始 7 吋 屠宰場盒裝套組",
-    "summary": "2026/10/20結單",
+    "summary": "",
     "route": "NE41589-01",
     "price": 1880,
     "origin_price": 2300,
@@ -511,7 +511,7 @@
   },
   {
     "title": "27年4月 無限邂逅Megalo Mari 模擬人形 Emulator#1A 組裝模型(CX054)",
-    "summary": "2026/10/20結單",
+    "summary": "",
     "route": "KO09490",
     "price": 1395,
     "origin_price": 2460,
@@ -561,7 +561,7 @@
   },
   {
     "title": "27年3月 壽屋 × Kojima Productions小島工作室  LUDENS 組裝模型 (KP786)",
-    "summary": "2026/10/21結單",
+    "summary": "",
     "route": "KP786",
     "price": 1850,
     "origin_price": 3150,
@@ -2670,16 +2670,6 @@
     "url": "https://www.asiagoal.com.tw/item/pv357"
   },
   {
-    "title": "26年9月 GRANDE SCALE 大型比例 機音少女 初音 組裝模型(FG199)",
-    "summary": "",
-    "route": "fg199",
-    "price": 1860,
-    "origin_price": 3150,
-    "pre_order_hint": "日本預計發售月 2026年9月 (台灣預計10-11月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cc5eb65d46.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/fg199"
-  },
-  {
     "title": "26年10月 無限邂逅Megalo Maria 模擬人形 EMULATOR 二號機 組裝模型(CX047)",
     "summary": "",
     "route": "cx047",
@@ -2760,16 +2750,6 @@
     "url": "https://www.asiagoal.com.tw/item/nt38963"
   },
   {
-    "title": "26年9月 ZOIDS 洛伊德 D-STYLE 指揮狼 IRVINE仕樣 附屬透明零件 組裝模型 (全長：約100mm)",
-    "summary": "",
-    "route": "kp872",
-    "price": 605,
-    "origin_price": 1010,
-    "pre_order_hint": "日本預計發售月 2026年9月 (台灣預計2026年10-11月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cc34fb53e5.png.webp",
-    "url": "https://www.asiagoal.com.tw/item/kp872"
-  },
-  {
     "title": "26年11月 1/8 英雄傳說 創之軌跡 勞拉·S·亞爾賽德 PVC",
     "summary": "",
     "route": "pv388",
@@ -2778,16 +2758,6 @@
     "pre_order_hint": "日本預計發售月 2026年11月 (台灣預計2026年9-10月到貨)",
     "photo": "https://image.bvshop.tw/6240/product/6240_6a2cc33a200e8.jpg.webp",
     "url": "https://www.asiagoal.com.tw/item/pv388"
-  },
-  {
-    "title": "26年9月 Frame Arms Girl 機甲少女 信玄 改 組裝模型(FG202)",
-    "summary": "",
-    "route": "fg202",
-    "price": 1245,
-    "origin_price": 2205,
-    "pre_order_hint": "日本預計發售月 2026年9月 (台灣預計2026年10-11月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cc322aac85.png.webp",
-    "url": "https://www.asiagoal.com.tw/item/fg202"
   },
   {
     "title": "26年9月 Megami Device 女神裝置 B1R-L 軀幹套裝 膚色D 組裝模型(KP848)",
@@ -2860,36 +2830,6 @@
     "url": "https://www.asiagoal.com.tw/item/jk099"
   },
   {
-    "title": "26年9月 1/10 創彩少女庭園 藥師寺久遠 篝火真里亞 戰損ver 組裝模型",
-    "summary": "",
-    "route": "jk090",
-    "price": 1325,
-    "origin_price": 2360,
-    "pre_order_hint": "日本預計發售月 2026年9月(台灣預計26年10-11月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cc1f7e1574.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/jk090"
-  },
-  {
-    "title": "26年9月 1/10 創彩少女庭園 極限運動摩托車 2ND COLOR 黑色 壽屋限定版 組裝模型(MV022)",
-    "summary": "",
-    "route": "mv022",
-    "price": 1135,
-    "origin_price": 2048,
-    "pre_order_hint": "日本預計發售月 2026年9月(台灣預計26年910-11月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cc1b7a99bc.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/mv022"
-  },
-  {
-    "title": "26年9月 1/10 創彩少女庭園 極限運動摩托車 早乙女瑠衣版 組裝模型 (MV013)",
-    "summary": "",
-    "route": "mv013",
-    "price": 1135,
-    "origin_price": 2048,
-    "pre_order_hint": "日本預計發售月 2026年9月(台灣預計26年910-11月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cc187098eb.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/mv013"
-  },
-  {
     "title": "26年Q3 NECA 7吋 忍者龜 x 兔用心棒 米開朗基羅",
     "summary": "",
     "route": "tmnt-x-usagi-yojimbo-7-scale-action-figure-ultimate-michelangelo",
@@ -2958,16 +2898,6 @@
     "pre_order_hint": "日本預計發售月 2026年10月(台灣預計11-12月到貨)",
     "photo": "https://image.bvshop.tw/6240/product/6240_6a2cbfc090154.jpg.webp",
     "url": "https://www.asiagoal.com.tw/item/pv340"
-  },
-  {
-    "title": "26年9月 Megami Device 女神裝置 彈丸騎士 地獄驅魔師HELL BLAZE 組裝模型 (KP860)",
-    "summary": "",
-    "route": "kp860",
-    "price": 1660,
-    "origin_price": 2995,
-    "pre_order_hint": "日本預計發售月 2026年9月 (台灣預計2026年10-11月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cbfa9ed8ca.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/kp860"
   },
   {
     "title": "26年11月 1/7 容易對付的惡魔大人 高潔果南 PVC",
@@ -3080,16 +3010,6 @@
     "url": "https://www.asiagoal.com.tw/item/pv329"
   },
   {
-    "title": "26年9月 1/10 創彩少女庭園 早乙女瑠衣 桃櫻高校 夢幻風格 白海豚 競泳泳裝Ver.  組裝模型 (JK098)",
-    "summary": "",
-    "route": "jk098",
-    "price": 1280,
-    "origin_price": 2205,
-    "pre_order_hint": "日本預計發售月 2026年9月(台灣預計26年910-11月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cbbb4cab4d.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/jk098"
-  },
-  {
     "title": "26年10月 CAPCOM 魔物獵人 荒野 玩偶娃娃 吊飾玩偶 海龍",
     "summary": "",
     "route": "1641602-monster-hunter-chibi-style-plush-rey-dau-1",
@@ -3148,16 +3068,6 @@
     "pre_order_hint": "日本預計發售月 2026年10月",
     "photo": "https://image.bvshop.tw/6240/product/6240_6a2cb8d883074.jpg.webp",
     "url": "https://www.asiagoal.com.tw/item/gv146"
-  },
-  {
-    "title": "26年9月 1/7 SNK美少女 拳皇 XV 坂崎百合 PVC",
-    "summary": "",
-    "route": "sv380",
-    "price": 3490,
-    "origin_price": 5670,
-    "pre_order_hint": "預計發售月 2026年9月 (台灣預計2026年10-11月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cb87f60ee4.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/sv380"
   },
   {
     "title": "27年6月 MADHOUSE x DesignCOCO 葬送的芙莉蓮 欣梅爾 新藝術風格 PVC",
@@ -3238,16 +3148,6 @@
     "pre_order_hint": "日本預計發售月 2027年6月",
     "photo": "https://image.bvshop.tw/6240/product/6240_6a2cb60476f3a.jpg.webp",
     "url": "https://www.asiagoal.com.tw/item/coco090"
-  },
-  {
-    "title": "26年10月 1/7 ARTFX J 遊戲王 城之内克也 熾熱的決鬥者們 PVC",
-    "summary": "",
-    "route": "pv327",
-    "price": 3710,
-    "origin_price": 5985,
-    "pre_order_hint": "日本預計發售月 2026年10月 (台灣預計11-12月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2cb5a94ebc9.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/pv327"
   },
   {
     "title": "26年9月 1/8 拳皇98 KOF 草薙京 PVC",
@@ -3410,16 +3310,6 @@
     "url": "https://www.asiagoal.com.tw/item/gn225"
   },
   {
-    "title": "1/10 創彩少女庭園 如月 YUE【歌姬服裝】組裝模型 (JK039)",
-    "summary": "",
-    "route": "jk039",
-    "price": 2363,
-    "origin_price": 2363,
-    "pre_order_hint": "",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2ca7accc9c3.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/jk039"
-  },
-  {
     "title": "26年Q3 5 Points 飛天小女警 花花/泡泡/毛毛/魔人啾啾 4入組",
     "summary": "",
     "route": "5-points-poowerpuff-girls-assortment",
@@ -3438,16 +3328,6 @@
     "pre_order_hint": "預計發售月 2026年第3季",
     "photo": "https://image.bvshop.tw/6240/product/6240_6a2ca09c45e49.jpg.webp",
     "url": "https://www.asiagoal.com.tw/item/one-12-collective-leatherface-2003"
-  },
-  {
-    "title": "26年9月 1/7 Hololive 百鬼綾目 巫女服裝 PVC",
-    "summary": "",
-    "route": "pv216",
-    "price": 5060,
-    "origin_price": 7875,
-    "pre_order_hint": "日本預計發貨月 2026年9月 (台灣預計2026年10-11月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2c9fb56e3ea.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/pv216"
   },
   {
     "title": "27年4月 1/3000 銀河英雄傳說 自由惑星同盟區 戰艦 休伯利安 組裝模型",
@@ -3488,16 +3368,6 @@
     "pre_order_hint": "日本預計發售月 2027年3月",
     "photo": "https://image.bvshop.tw/6240/product/6240_6a2c952de0772.jpg.webp",
     "url": "https://www.asiagoal.com.tw/item/coco065"
-  },
-  {
-    "title": "26年9月 A･DIMENSION  1/7  偵探已經，死了。希耶絲塔 泳裝 Ver.",
-    "summary": "",
-    "route": "the-detective-is-already-dead-siesta-swimsuit-ver-17-complete-figure",
-    "price": 1620,
-    "origin_price": 2640,
-    "pre_order_hint": "日本預計發售月延期至 2026年9月",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2c95186c9f4.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/the-detective-is-already-dead-siesta-swimsuit-ver-17-complete-figure"
   },
   {
     "title": "26年11月 Design COCO 1/7 魔女之旅 伊蕾娜 PVC",
@@ -3638,16 +3508,6 @@
     "pre_order_hint": "預計發售月 2026年第4季",
     "photo": "https://image.bvshop.tw/6240/product/6240_6a2c78448ca9d.jpg.webp",
     "url": "https://www.asiagoal.com.tw/item/mds-mega-jason-friday-the-13th-figure-with-souind-re-run"
-  },
-  {
-    "title": "26年9月 BellFine 1/8 Palette Masters 我的英雄學院 蛙吹梅雨 英雄服 2D版",
-    "summary": "",
-    "route": "f996013",
-    "price": 3885,
-    "origin_price": 6100,
-    "pre_order_hint": "日本預計發售月延期至 2026年9月 (台灣預計10-11月到貨)",
-    "photo": "https://image.bvshop.tw/6240/product/6240_6a2c77fd49d03.jpg.webp",
-    "url": "https://www.asiagoal.com.tw/item/f996013"
   },
   {
     "title": "HIYA 哥吉拉vs王者基多拉 1991 機械基多拉",
