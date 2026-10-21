@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21 15:09:19",
-  "total": 362,
+  "updated": "2026-10-21 21:30:09",
+  "total": 364,
   "groups": [
     {
       "date": "2026/10/22",
@@ -218,7 +218,7 @@
     },
     {
       "date": "2026/11/12",
-      "count": 2,
+      "count": 3,
       "items": [
         {
           "title": "27年3月 ZOIDS 洛伊德 D-Style 格鬥金剛 附屬透明零件 組裝模型",
@@ -231,6 +231,12 @@
           "url": "https://www.asiagoal.com.tw/item/PV366",
           "price": 4785,
           "photo": "https://image.bvshop.tw/6240/product/6240_6ac5c9e71c8d2.jpg.webp"
+        },
+        {
+          "title": "27年6月 Megami Device 女神裝置 PUNI☆MOFU 賽車鴞 with 本田 Z50J Gorilla 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP881",
+          "price": 1520,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ad88547209af.jpg.webp"
         }
       ],
       "days_left": 22
@@ -250,8 +256,14 @@
     },
     {
       "date": "2026/11/19",
-      "count": 5,
+      "count": 6,
       "items": [
+        {
+          "title": "27年4月 MSG武裝零件 MH77 重武器組件 77 主動推進器",
+          "url": "https://www.asiagoal.com.tw/item/MH77",
+          "price": 470,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ad88598326bd.jpg.webp"
+        },
         {
           "title": "27年4月 銀河特急 Milky☆Subway 來栖真希菜 組裝模型",
           "url": "https://www.asiagoal.com.tw/item/KP882",
