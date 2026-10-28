@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28 12:23:09",
-  "total": 376,
+  "updated": "2026-10-28 19:01:22",
+  "total": 380,
   "groups": [
     {
       "date": "2026/10/22",
@@ -218,7 +218,7 @@
     },
     {
       "date": "2026/11/12",
-      "count": 3,
+      "count": 7,
       "items": [
         {
           "title": "27年3月 ZOIDS 洛伊德 D-Style 格鬥金剛 附屬透明零件 組裝模型",
@@ -227,10 +227,34 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6acef85983264.jpg.webp"
         },
         {
+          "title": "27年4月 1/10 創彩少女庭園 放課後 久遠的演員道具 SET2 組裝模型(MV023)",
+          "url": "https://www.asiagoal.com.tw/item/MV023",
+          "price": 505,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae1b864b74e3.jpg.webp"
+        },
+        {
+          "title": "27年4月 1/10 創彩少女庭園 藥師寺久遠 旗袍Ver. 壽屋限定版 組裝模型(JK083)",
+          "url": "https://www.asiagoal.com.tw/item/JK083",
+          "price": 1335,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae1b80f1e446.jpg.webp"
+        },
+        {
+          "title": "27年4月 Megami Device 女神裝置 PUNI☆MOFU 白貓 組裝模型(KP912)",
+          "url": "https://www.asiagoal.com.tw/item/KP912",
+          "price": 1140,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae1b7bc3c1b8.jpg.webp"
+        },
+        {
           "title": "27年5月 1/7 魔法騎士雷阿斯 獅堂光 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV366",
           "price": 4785,
           "photo": "https://image.bvshop.tw/6240/product/6240_6ac5c9e71c8d2.jpg.webp"
+        },
+        {
+          "title": "27年5月 女神裝置M.S.G PUNI☆MOFU 白貓 EYE DECAL SET 水貼 (KP935)",
+          "url": "https://www.asiagoal.com.tw/item/KP935",
+          "price": 240,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae1b783ba986.jpg.webp"
         },
         {
           "title": "27年6月 Megami Device 女神裝置 PUNI☆MOFU 賽車鴞 with 本田 Z50J Gorilla 組裝模型",
