@@ -1,20 +1,7 @@
 {
-  "updated": "2026-10-29 10:09:15",
-  "total": 380,
+  "updated": "2026-10-29 17:28:42",
+  "total": 390,
   "groups": [
-    {
-      "date": "2026/10/22",
-      "count": 1,
-      "items": [
-        {
-          "title": "27年2月 FINAL FANTASY VII STRUCTURE ARTS 可動模型 蒂法",
-          "url": "https://www.asiagoal.com.tw/item/4988601276429",
-          "price": 2000,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6ac768cf58627.jpg.webp"
-        }
-      ],
-      "days_left": -7
-    },
     {
       "date": "2026/10/29",
       "count": 17,
@@ -217,8 +204,27 @@
       "days_left": 10
     },
     {
+      "date": "2026/11/11",
+      "count": 2,
+      "items": [
+        {
+          "title": "27年2月 SQkawaii Sounds -FINAL FANTASY- Vol. 2 遊戲滑鼠墊",
+          "url": "https://www.asiagoal.com.tw/item/4988601298315",
+          "price": 780,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cd46c9a53.jpg.webp"
+        },
+        {
+          "title": "27年2月 SQkawaii Sounds -FINAL FANTASY- 遊戲滑鼠墊",
+          "url": "https://www.asiagoal.com.tw/item/4988601389563",
+          "price": 780,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cd18d821c.jpg.webp"
+        }
+      ],
+      "days_left": 13
+    },
+    {
       "date": "2026/11/12",
-      "count": 7,
+      "count": 9,
       "items": [
         {
           "title": "27年3月 ZOIDS 洛伊德 D-Style 格鬥金剛 附屬透明零件 組裝模型",
@@ -255,6 +261,18 @@
           "url": "https://www.asiagoal.com.tw/item/KP935",
           "price": 240,
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae1b783ba986.jpg.webp"
+        },
+        {
+          "title": "27年6月 1/144 空戰奇兵ACE系列 ADF-01 組裝模型 (KP648)",
+          "url": "https://www.asiagoal.com.tw/item/KP648",
+          "price": 1080,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cc498b3af.jpg.webp"
+        },
+        {
+          "title": "27年6月 1/144 空戰奇兵ACE系列 CFA-44 組裝模型 (KP612)",
+          "url": "https://www.asiagoal.com.tw/item/KP612",
+          "price": 1000,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cbe03f3b7.jpg.webp"
         },
         {
           "title": "27年6月 Megami Device 女神裝置 PUNI☆MOFU 賽車鴞 with 本田 Z50J Gorilla 組裝模型",
@@ -336,8 +354,32 @@
     },
     {
       "date": "2026/11/26",
-      "count": 1,
+      "count": 5,
       "items": [
+        {
+          "title": "27年4月 ZOIDS 洛伊德 D-Style 重劍長牙獅 2000 -Recolor- 組裝模型(KP924)",
+          "url": "https://www.asiagoal.com.tw/item/KP924",
+          "price": 645,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae2c99c87c3a.jpg.webp"
+        },
+        {
+          "title": "27年4月 ZOIDS 洛伊德 指揮狼 IRVINE仕樣 特別版1999 -Recolor- 組裝模型(ZD201)",
+          "url": "https://www.asiagoal.com.tw/item/ZD201",
+          "price": 1345,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae2ca0044e98.jpg.webp"
+        },
+        {
+          "title": "27年6月 1/7 魔法騎士雷阿斯 龍咲海 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV367",
+          "price": 4820,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae2ca5df11e9.jpg.webp"
+        },
+        {
+          "title": "27年6月 1/8 偶像大師百萬人演唱會 伊吹 翼 -The Animation- ASOBI STORE＆壽屋限定品 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV414",
+          "price": 4360,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cae86d396.jpg.webp"
+        },
         {
           "title": "27年8月 1/4 勝利女神：妮姬 索達 閃亮兔女郎 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV342",
@@ -362,8 +404,14 @@
     },
     {
       "date": "2026/12/3",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "27年6月 1/7 賽馬娘 時代創世 決勝服 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV377",
+          "price": 4325,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cb7df158d.jpg.webp"
+        },
         {
           "title": "27年9月 1/7 優米雅的鍊金工房 ～追憶之鍊金術士與幻創之地～ 優米雅 利斯菲爾德 晴雨Ver.",
           "url": "https://www.asiagoal.com.tw/item/PV335",
@@ -398,6 +446,32 @@
         }
       ],
       "days_left": 47
+    },
+    {
+      "date": "2027/1/4",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年7月 1/8 與妳相戀到生命盡頭 席娜&美美 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV395",
+          "price": 6150,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae2ca9aa4ccc.jpg.webp"
+        }
+      ],
+      "days_left": 67
+    },
+    {
+      "date": "2027/1/7",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年8月 壽屋 劇場版來自深淵：覺醒的神秘 娜娜奇 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV515",
+          "price": 2330,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cb3e3f0e2.jpg.webp"
+        }
+      ],
+      "days_left": 70
     },
     {
       "date": "2027/1/21",
