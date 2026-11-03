@@ -30,10 +30,12 @@ HEADERS = {
     "Referer": "https://www.asiagoal.com.tw/",
 }
 
-# 重試設定：遇到 429 / 5xx 時，等待 30 → 60 → 120 秒（或對方指定的 Retry-After）
-MAX_RETRIES = 4
+# 重試設定：遇到 429 / 5xx 時，等待 30 → 60 → 120 → 240 秒
+# 若對方的 Retry-After 比退避時間更長才採用對方的，絕不比退避時間短
+# （站方的 Retry-After 可能只有 5 秒，照它等只會變成連續狂打）
+MAX_RETRIES = 5
 BACKOFF_BASE = 30
-MAX_WAIT = 180
+MAX_WAIT = 240
 
 # 每頁之間的隨機間隔（秒），避免被判定為高頻請求
 PAGE_DELAY = (1.5, 3.0)
@@ -60,13 +62,14 @@ if proxy_url:
 
 
 def get_wait_seconds(response, attempt):
-    """優先使用 Retry-After，否則用指數退避加上隨機抖動。"""
+    """取「指數退避」與「Retry-After」中較長者，再加上隨機抖動。"""
+    wait = min(BACKOFF_BASE * (2 ** (attempt - 1)), MAX_WAIT)
+
     retry_after = response.headers.get("Retry-After") if response is not None else None
 
     if retry_after and retry_after.strip().isdigit():
-        return min(int(retry_after.strip()), MAX_WAIT)
+        wait = max(wait, min(int(retry_after.strip()), MAX_WAIT))
 
-    wait = min(BACKOFF_BASE * (2 ** (attempt - 1)), MAX_WAIT)
     return wait + random.uniform(0, 5)
 
 
