@@ -4,15 +4,19 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0 * * * *"
+    # 每 6 小時一次（UTC 00:17、06:17、12:17、18:17，即台灣 08:17、14:17、20:17、02:17）
+    # 刻意避開整點，減少 GitHub 排程擁塞
+    - cron: "17 */6 * * *"
 
 concurrency:
   group: update-deadline
-  cancel-in-progress: true
+  # 不要中途取消正在執行的更新，改成排隊
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     permissions:
       contents: write
@@ -32,6 +36,10 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Python
+        env:
+          # 選填：若 GitHub 的 IP 被擋，可在 Settings > Secrets 新增 PROXY_URL
+          # 沒設定時為空字串，fetch.py 會直接略過代理
+          PROXY_URL: ${{ secrets.PROXY_URL }}
         run: |
           python fetch.py
 
@@ -44,5 +52,6 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Auto update deadline"
+            git pull --rebase
             git push
           fi
