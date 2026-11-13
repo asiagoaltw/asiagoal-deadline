@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12 09:08:29",
-  "total": 51,
+  "updated": "2026-11-13 09:19:37",
+  "total": 54,
   "groups": [
     {
       "date": "2026/11/11",
@@ -19,7 +19,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cd18d821c.jpg.webp"
         }
       ],
-      "days_left": -1
+      "days_left": -2
     },
     {
       "date": "2026/11/12",
@@ -80,7 +80,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ad88547209af.jpg.webp"
         }
       ],
-      "days_left": 0
+      "days_left": -1
     },
     {
       "date": "2026/11/18",
@@ -93,7 +93,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abca2ae7d90d.jpg.webp"
         }
       ],
-      "days_left": 6
+      "days_left": 5
     },
     {
       "date": "2026/11/19",
@@ -184,7 +184,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abb8a991c5cd.jpg.webp"
         }
       ],
-      "days_left": 7
+      "days_left": 6
     },
     {
       "date": "2026/11/23",
@@ -197,11 +197,11 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aaa64f524981.jpg.webp"
         }
       ],
-      "days_left": 11
+      "days_left": 10
     },
     {
       "date": "2026/11/26",
-      "count": 10,
+      "count": 11,
       "items": [
         {
           "title": "27年4月 ZOIDS 洛伊德 D-Style 重劍長牙獅 2000 -Recolor- 組裝模型(KP924)",
@@ -226,6 +226,12 @@
           "url": "https://www.asiagoal.com.tw/item/GP022",
           "price": 3938,
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae84306b03c0.jpg.webp"
+        },
+        {
+          "title": "27年5月 銀河特急 Milky☆Subway 九乘千春 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/KP883",
+          "price": 1755,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6af5702153fda.jpg.webp"
         },
         {
           "title": "27年6月 1/7 魔法騎士雷阿斯 龍咲海 PVC",
@@ -264,7 +270,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aab9e56820d1.jpg.webp"
         }
       ],
-      "days_left": 14
+      "days_left": 13
     },
     {
       "date": "2026/12/2",
@@ -277,7 +283,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcdb081fa32.jpg.webp"
         }
       ],
-      "days_left": 20
+      "days_left": 19
     },
     {
       "date": "2026/12/3",
@@ -308,7 +314,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ad7088868878.jpg.webp"
         }
       ],
-      "days_left": 21
+      "days_left": 20
     },
     {
       "date": "2026/12/7",
@@ -333,7 +339,20 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcda7a83f8c.jpg.webp"
         }
       ],
-      "days_left": 25
+      "days_left": 24
+    },
+    {
+      "date": "2026/12/10",
+      "count": 1,
+      "items": [
+        {
+          "title": "27年6月 1/7 無職轉生3 洛琪希‧米格路迪亞 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV390",
+          "price": 3930,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6af57071ea3ad.jpg.webp"
+        }
+      ],
+      "days_left": 27
     },
     {
       "date": "2026/12/11",
@@ -352,7 +371,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aeaeb90cf8ca.jpg.webp"
         }
       ],
-      "days_left": 29
+      "days_left": 28
     },
     {
       "date": "2026/12/15",
@@ -365,7 +384,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ac7192fd7a64.jpg.webp"
         }
       ],
-      "days_left": 33
+      "days_left": 32
     },
     {
       "date": "2027/1/4",
@@ -378,12 +397,18 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2ca9aa4ccc.jpg.webp"
         }
       ],
-      "days_left": 53
+      "days_left": 52
     },
     {
       "date": "2027/1/7",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "27年7月 1/7 魔法騎士雷阿斯 鳳凰寺 風 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV368",
+          "price": 4965,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6af570de6ea09.jpg.webp"
+        },
         {
           "title": "27年8月 壽屋 劇場版來自深淵：覺醒的神秘 娜娜奇 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV515",
@@ -391,7 +416,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cb3e3f0e2.jpg.webp"
         }
       ],
-      "days_left": 56
+      "days_left": 55
     },
     {
       "date": "2027/1/21",
@@ -404,7 +429,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abb8adda243d.jpg.webp"
         }
       ],
-      "days_left": 70
+      "days_left": 69
     }
   ]
 }
