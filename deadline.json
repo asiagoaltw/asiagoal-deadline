@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13 09:19:37",
-  "total": 54,
+  "updated": "2026-11-16 09:39:09",
+  "total": 57,
   "groups": [
     {
       "date": "2026/11/11",
@@ -19,7 +19,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cd18d821c.jpg.webp"
         }
       ],
-      "days_left": -2
+      "days_left": -5
     },
     {
       "date": "2026/11/12",
@@ -80,7 +80,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ad88547209af.jpg.webp"
         }
       ],
-      "days_left": -1
+      "days_left": -4
     },
     {
       "date": "2026/11/18",
@@ -93,7 +93,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abca2ae7d90d.jpg.webp"
         }
       ],
-      "days_left": 5
+      "days_left": 2
     },
     {
       "date": "2026/11/19",
@@ -184,7 +184,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abb8a991c5cd.jpg.webp"
         }
       ],
-      "days_left": 6
+      "days_left": 3
     },
     {
       "date": "2026/11/23",
@@ -197,11 +197,11 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aaa64f524981.jpg.webp"
         }
       ],
-      "days_left": 10
+      "days_left": 7
     },
     {
       "date": "2026/11/26",
-      "count": 11,
+      "count": 13,
       "items": [
         {
           "title": "27年4月 ZOIDS 洛伊德 D-Style 重劍長牙獅 2000 -Recolor- 組裝模型(KP924)",
@@ -214,6 +214,18 @@
           "url": "https://www.asiagoal.com.tw/item/ZD201",
           "price": 1345,
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2ca0044e98.jpg.webp"
+        },
+        {
+          "title": "27年5月 ARCANADEA 阿爾卡納蒂亞 XenoAlma系列 蒼藍烈焰 組裝模型(AS013)",
+          "url": "https://www.asiagoal.com.tw/item/AS013",
+          "price": 1185,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6af6a1cbaf953.jpg.webp"
+        },
+        {
+          "title": "27年5月 ARCANADEA 阿爾卡納蒂亞 霞羽瑶 ReACT-C 天使型 組裝模型(AR027)",
+          "url": "https://www.asiagoal.com.tw/item/AR027",
+          "price": 1555,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6af6a181aa7f5.jpg.webp"
         },
         {
           "title": "27年5月 Frame Arms Girl 機甲少女 魔鷲 康妮克絲 鳳凰 組裝模型",
@@ -270,7 +282,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aab9e56820d1.jpg.webp"
         }
       ],
-      "days_left": 13
+      "days_left": 10
     },
     {
       "date": "2026/12/2",
@@ -283,7 +295,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcdb081fa32.jpg.webp"
         }
       ],
-      "days_left": 19
+      "days_left": 16
     },
     {
       "date": "2026/12/3",
@@ -314,7 +326,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ad7088868878.jpg.webp"
         }
       ],
-      "days_left": 20
+      "days_left": 17
     },
     {
       "date": "2026/12/7",
@@ -339,20 +351,26 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcda7a83f8c.jpg.webp"
         }
       ],
-      "days_left": 24
+      "days_left": 21
     },
     {
       "date": "2026/12/10",
-      "count": 1,
+      "count": 2,
       "items": [
         {
           "title": "27年6月 1/7 無職轉生3 洛琪希‧米格路迪亞 PVC",
           "url": "https://www.asiagoal.com.tw/item/PV390",
           "price": 3930,
           "photo": "https://image.bvshop.tw/6240/product/6240_6af57071ea3ad.jpg.webp"
+        },
+        {
+          "title": "27年6月 1/8 英雄傳說 空之軌跡 緹妲‧拉賽爾 PVC",
+          "url": "https://www.asiagoal.com.tw/item/PV450",
+          "price": 4700,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6af6a23a29b5d.jpg.webp"
         }
       ],
-      "days_left": 27
+      "days_left": 24
     },
     {
       "date": "2026/12/11",
@@ -371,7 +389,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aeaeb90cf8ca.jpg.webp"
         }
       ],
-      "days_left": 28
+      "days_left": 25
     },
     {
       "date": "2026/12/15",
@@ -384,7 +402,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ac7192fd7a64.jpg.webp"
         }
       ],
-      "days_left": 32
+      "days_left": 29
     },
     {
       "date": "2027/1/4",
@@ -397,7 +415,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2ca9aa4ccc.jpg.webp"
         }
       ],
-      "days_left": 52
+      "days_left": 49
     },
     {
       "date": "2027/1/7",
@@ -416,7 +434,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cb3e3f0e2.jpg.webp"
         }
       ],
-      "days_left": 55
+      "days_left": 52
     },
     {
       "date": "2027/1/21",
@@ -429,7 +447,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abb8adda243d.jpg.webp"
         }
       ],
-      "days_left": 69
+      "days_left": 66
     }
   ]
 }
