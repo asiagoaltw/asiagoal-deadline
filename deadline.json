@@ -1,20 +1,7 @@
 {
-  "updated": "2026-11-16 11:02:15",
-  "total": 47,
+  "updated": "2026-11-17 10:31:26",
+  "total": 48,
   "groups": [
-    {
-      "date": "2026/11/12",
-      "count": 1,
-      "items": [
-        {
-          "title": "27年5月 1/7 魔法騎士雷阿斯 獅堂光 PVC",
-          "url": "https://www.asiagoal.com.tw/item/PV366",
-          "price": 4785,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6ac5c9e71c8d2.jpg.webp"
-        }
-      ],
-      "days_left": -4
-    },
     {
       "date": "2026/11/18",
       "count": 1,
@@ -26,7 +13,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abca2ae7d90d.jpg.webp"
         }
       ],
-      "days_left": 2
+      "days_left": 1
     },
     {
       "date": "2026/11/19",
@@ -117,7 +104,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abb8a991c5cd.jpg.webp"
         }
       ],
-      "days_left": 3
+      "days_left": 2
     },
     {
       "date": "2026/11/23",
@@ -130,11 +117,11 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aaa64f524981.jpg.webp"
         }
       ],
-      "days_left": 7
+      "days_left": 6
     },
     {
       "date": "2026/11/26",
-      "count": 13,
+      "count": 15,
       "items": [
         {
           "title": "27年4月 ZOIDS 洛伊德 D-Style 重劍長牙獅 2000 -Recolor- 組裝模型(KP924)",
@@ -167,6 +154,12 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aed42e5ba68a.jpg.webp"
         },
         {
+          "title": "27年5月 Megami Device 女神裝置 PUNI☆MOFU 夜兔 組裝模型(KP913)",
+          "url": "https://www.asiagoal.com.tw/item/KP913",
+          "price": 1150,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6afacfa72c73e.jpg.webp"
+        },
+        {
           "title": "27年5月 心推工坊 零～紅蝶～ REMAKE 天倉澪・天倉繭 完成品",
           "url": "https://www.asiagoal.com.tw/item/GP022",
           "price": 3938,
@@ -189,6 +182,12 @@
           "url": "https://www.asiagoal.com.tw/item/PV414",
           "price": 4360,
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cae86d396.jpg.webp"
+        },
+        {
+          "title": "27年6月 女神裝置M.S.G PUNI☆MOFU 夜兔 EYE DECAL SET 水貼",
+          "url": "https://www.asiagoal.com.tw/item/KP936",
+          "price": 240,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6afacf6755996.jpg.webp"
         },
         {
           "title": "27年7月 1/10 創彩少女庭園 藥師寺 久遠 篝火真里亞 服裝 組裝模型(JK043)",
@@ -215,7 +214,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aab9e56820d1.jpg.webp"
         }
       ],
-      "days_left": 10
+      "days_left": 9
     },
     {
       "date": "2026/12/2",
@@ -228,7 +227,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcdb081fa32.jpg.webp"
         }
       ],
-      "days_left": 16
+      "days_left": 15
     },
     {
       "date": "2026/12/3",
@@ -259,7 +258,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ad7088868878.jpg.webp"
         }
       ],
-      "days_left": 17
+      "days_left": 16
     },
     {
       "date": "2026/12/7",
@@ -284,7 +283,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcda7a83f8c.jpg.webp"
         }
       ],
-      "days_left": 21
+      "days_left": 20
     },
     {
       "date": "2026/12/10",
@@ -303,7 +302,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6af6a23a29b5d.jpg.webp"
         }
       ],
-      "days_left": 24
+      "days_left": 23
     },
     {
       "date": "2026/12/11",
@@ -322,7 +321,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aeaeb90cf8ca.jpg.webp"
         }
       ],
-      "days_left": 25
+      "days_left": 24
     },
     {
       "date": "2026/12/15",
@@ -335,7 +334,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ac7192fd7a64.jpg.webp"
         }
       ],
-      "days_left": 29
+      "days_left": 28
     },
     {
       "date": "2027/1/4",
@@ -348,7 +347,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2ca9aa4ccc.jpg.webp"
         }
       ],
-      "days_left": 49
+      "days_left": 48
     },
     {
       "date": "2027/1/7",
@@ -367,7 +366,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cb3e3f0e2.jpg.webp"
         }
       ],
-      "days_left": 52
+      "days_left": 51
     },
     {
       "date": "2027/1/21",
@@ -380,7 +379,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abb8adda243d.jpg.webp"
         }
       ],
-      "days_left": 66
+      "days_left": 65
     }
   ]
 }
