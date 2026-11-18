@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17 10:31:26",
-  "total": 48,
+  "updated": "2026-11-18 11:47:08",
+  "total": 50,
   "groups": [
     {
       "date": "2026/11/18",
@@ -13,7 +13,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abca2ae7d90d.jpg.webp"
         }
       ],
-      "days_left": 1
+      "days_left": 0
     },
     {
       "date": "2026/11/19",
@@ -104,7 +104,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abb8a991c5cd.jpg.webp"
         }
       ],
-      "days_left": 2
+      "days_left": 1
     },
     {
       "date": "2026/11/23",
@@ -117,11 +117,11 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aaa64f524981.jpg.webp"
         }
       ],
-      "days_left": 6
+      "days_left": 5
     },
     {
       "date": "2026/11/26",
-      "count": 15,
+      "count": 16,
       "items": [
         {
           "title": "27年4月 ZOIDS 洛伊德 D-Style 重劍長牙獅 2000 -Recolor- 組裝模型(KP924)",
@@ -202,6 +202,12 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aed4432b5a12.jpg.webp"
         },
         {
+          "title": "27年7月 1/24 Hexa Gear 六角機牙 赤龍 Agnirage 組裝模型 (再販)",
+          "url": "https://www.asiagoal.com.tw/item/HG012X",
+          "price": 2185,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6afbd51ef0124.jpg.webp"
+        },
+        {
           "title": "27年7月 新世紀福音戰士貳號機 TV版 組裝模型(KP437R)",
           "url": "https://www.asiagoal.com.tw/item/KP437R",
           "price": 1595,
@@ -214,7 +220,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aab9e56820d1.jpg.webp"
         }
       ],
-      "days_left": 9
+      "days_left": 8
     },
     {
       "date": "2026/12/2",
@@ -227,11 +233,11 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcdb081fa32.jpg.webp"
         }
       ],
-      "days_left": 15
+      "days_left": 14
     },
     {
       "date": "2026/12/3",
-      "count": 4,
+      "count": 5,
       "items": [
         {
           "title": "27年6月 1/7 蔚藍檔案 乃愛 PVC",
@@ -252,13 +258,19 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aed41c875645.jpg.webp"
         },
         {
+          "title": "27年6月 無限邂逅Megalo Mari  刺客 克拉莉絲 女僕服型 組裝模型",
+          "url": "https://www.asiagoal.com.tw/item/CX055",
+          "price": 1470,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6afbd4198fcc2.jpg.webp"
+        },
+        {
           "title": "27年9月 1/7 優米雅的鍊金工房 ～追憶之鍊金術士與幻創之地～ 優米雅 利斯菲爾德 晴雨Ver.",
           "url": "https://www.asiagoal.com.tw/item/PV335",
           "price": 4690,
           "photo": "https://image.bvshop.tw/6240/product/6240_6ad7088868878.jpg.webp"
         }
       ],
-      "days_left": 16
+      "days_left": 15
     },
     {
       "date": "2026/12/7",
@@ -283,7 +295,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcda7a83f8c.jpg.webp"
         }
       ],
-      "days_left": 20
+      "days_left": 19
     },
     {
       "date": "2026/12/10",
@@ -302,7 +314,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6af6a23a29b5d.jpg.webp"
         }
       ],
-      "days_left": 23
+      "days_left": 22
     },
     {
       "date": "2026/12/11",
@@ -321,7 +333,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aeaeb90cf8ca.jpg.webp"
         }
       ],
-      "days_left": 24
+      "days_left": 23
     },
     {
       "date": "2026/12/15",
@@ -334,7 +346,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ac7192fd7a64.jpg.webp"
         }
       ],
-      "days_left": 28
+      "days_left": 27
     },
     {
       "date": "2027/1/4",
@@ -347,7 +359,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2ca9aa4ccc.jpg.webp"
         }
       ],
-      "days_left": 48
+      "days_left": 47
     },
     {
       "date": "2027/1/7",
@@ -366,7 +378,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cb3e3f0e2.jpg.webp"
         }
       ],
-      "days_left": 51
+      "days_left": 50
     },
     {
       "date": "2027/1/21",
@@ -379,7 +391,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abb8adda243d.jpg.webp"
         }
       ],
-      "days_left": 65
+      "days_left": 64
     }
   ]
 }
