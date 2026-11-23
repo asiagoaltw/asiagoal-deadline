@@ -1,20 +1,7 @@
 {
-  "updated": "2026-11-20 11:05:45",
-  "total": 37,
+  "updated": "2026-11-23 11:42:51",
+  "total": 38,
   "groups": [
-    {
-      "date": "2026/11/19",
-      "count": 1,
-      "items": [
-        {
-          "title": "27年4月 銀河特急 Milky☆Subway 來栖真希菜 組裝模型",
-          "url": "https://www.asiagoal.com.tw/item/KP882",
-          "price": 1705,
-          "photo": "https://image.bvshop.tw/6240/product/6240_6ac5ca2a49e6c.jpg.webp"
-        }
-      ],
-      "days_left": -1
-    },
     {
       "date": "2026/11/23",
       "count": 1,
@@ -26,7 +13,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aaa64f524981.jpg.webp"
         }
       ],
-      "days_left": 3
+      "days_left": 0
     },
     {
       "date": "2026/11/26",
@@ -129,7 +116,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aab9e56820d1.jpg.webp"
         }
       ],
-      "days_left": 6
+      "days_left": 3
     },
     {
       "date": "2026/12/2",
@@ -142,7 +129,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcdb081fa32.jpg.webp"
         }
       ],
-      "days_left": 12
+      "days_left": 9
     },
     {
       "date": "2026/12/3",
@@ -179,11 +166,11 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ad7088868878.jpg.webp"
         }
       ],
-      "days_left": 13
+      "days_left": 10
     },
     {
       "date": "2026/12/7",
-      "count": 4,
+      "count": 6,
       "items": [
         {
           "title": "27年6月 1/6 天降之物 寧芙 PVC",
@@ -204,13 +191,25 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6af2d37798be7.jpg.webp"
         },
         {
+          "title": "27年8月 FINAL FANTASY X ADORABLE ARTS 優娜",
+          "url": "https://www.asiagoal.com.tw/item/4988601284578",
+          "price": 1850,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6b000be82cde0.jpg.webp"
+        },
+        {
+          "title": "27年8月 FINAL FANTASY X ADORABLE ARTS 提達",
+          "url": "https://www.asiagoal.com.tw/item/4988601284561",
+          "price": 1850,
+          "photo": "https://image.bvshop.tw/6240/product/6240_6b000ba6d945e.jpg.webp"
+        },
+        {
           "title": "27年9月 Design COCO 1/7 蔚藍檔案 桐生桔梗 泳裝 PVC",
           "url": "https://www.asiagoal.com.tw/item/COCO104",
           "price": 4150,
           "photo": "https://image.bvshop.tw/6240/product/6240_6abcda7a83f8c.jpg.webp"
         }
       ],
-      "days_left": 17
+      "days_left": 14
     },
     {
       "date": "2026/12/10",
@@ -229,7 +228,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6af6a23a29b5d.jpg.webp"
         }
       ],
-      "days_left": 20
+      "days_left": 17
     },
     {
       "date": "2026/12/11",
@@ -248,7 +247,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6aeaeb90cf8ca.jpg.webp"
         }
       ],
-      "days_left": 21
+      "days_left": 18
     },
     {
       "date": "2026/12/15",
@@ -261,7 +260,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ac7192fd7a64.jpg.webp"
         }
       ],
-      "days_left": 25
+      "days_left": 22
     },
     {
       "date": "2027/1/4",
@@ -274,7 +273,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2ca9aa4ccc.jpg.webp"
         }
       ],
-      "days_left": 45
+      "days_left": 42
     },
     {
       "date": "2027/1/7",
@@ -293,7 +292,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6ae2cb3e3f0e2.jpg.webp"
         }
       ],
-      "days_left": 48
+      "days_left": 45
     },
     {
       "date": "2027/1/21",
@@ -306,7 +305,7 @@
           "photo": "https://image.bvshop.tw/6240/product/6240_6abb8adda243d.jpg.webp"
         }
       ],
-      "days_left": 62
+      "days_left": 59
     }
   ]
 }
